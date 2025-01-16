@@ -1,0 +1,693 @@
+[
+    {
+        "type": "text",
+        "text": "PART THREE - INSUIATION ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER VIII ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "RUBBER AND PIASTIC INSUIATION ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Stephen Palinchak, C. W.  Hamilton and L.  L.  Suber Battelle Memorial Institute Columbus, Ohio ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This section is a review of rubber and plastic research and developments in the electrical insulation field as described by 1955 literature.  Information is included on research and development trends, materials and their application, processes, and instrumentation.  In some instances, pertinent $2954$ information is included that was not available at the writing of the $2954$ Digest . ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.  Research and Development Trends ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The literature for 1955 indicated that there was a continued active interest in the development of better age- and heat-resistant rubber and plastic insulation.  Three different approaches have been utilized in an attempt to obtain improved insulation materials .  These were the development of improved and new rubbers through (a) polymerization of new monomeric materials ,  (b ) polymerization of existing monomers by radia­ tion, and ( c ) vulcanization and curing of existing polymers by new systems and radiation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Research on new silicone and fluorocarbon materials for high­ temperature applications was continued during 1955.  Of special interest to the electrical insulation field was the work by the Polaroid Corporation (1) in their attempts to prepare dielectric materials for use at high temperatures and ultra-high frequencies.  Emphasis was placed on the evaluation of poly-alpha, beta-trifluorostyrene, synthesiS and polymeriza tion of l,l-difluoro-isobutylene, and evaluation of resulting polymers and copolymers . ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Radiation research for improving existing materials appears to have taken the spotlight during 1955.  The impact of high-energy radiation on dielectrics was reported by Javitz (2).  The report provides an intro­ duction to the basic facts of high-energy radiation, reviews and summarizes results of several evaluation programs, cites radiation-resistance data, and analyzes design factors, including available techniques for inhibiting radiation effects\".  The use of high-energy radiation to develop new and improved dielectric materials is also discussed .  Radiation effects on long­ chain polymers was presented by Charlesby ( 3 ).  He discusses the effects ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "of atomic pile radiation to produce heat- and solvent-resistant products by crosslinking polyethylene, polystyrene, polyvinyl alcohol, polyvinyl acetate, nylon, silicones, neoprene, natural rubber, and rubber hydro­ chloride.  It was found that polymethyl methacrylate, polyisobutylene, and polytetrafluoroethylene (Teflon) decomposed when exposed to radiation. A patent was issued to J.  H. Coleman (4) for treatment of electrically insulating materials subjected to ionizing radiation and apparatus for measuring such radiation.  He found that the electrical resistivity characteristics of insulation material under ionizing radiation are im­ proved by subjecting the material to a dose of radiation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Aging characteristics of insulation continued to be a problem in 1955.  Methods for determining thermal aging were:'.:. ';icularly evaluated. A new method was described by Whitman and Scheideler (5) for determining the effect of thermal aging on the shearing modulus of flexible sheet insulation by nondestructive tests using a torsion pendulum technique. The data obtained are valuable for determining the effects of time and temperature on an important mechanical property of flexible sheet materia13, Since tests may be made as a function of aging on a given sample, the technique is very useful in establishing deterioration rates of the shearing modulus for a given insulation.  Significant factors involved in thermal tests of flexible sheet insulation are given by Dakin, Philofsky, and Divens (6) .  In the life-test of varnished glass cloth, they find that many arbitrary decisions have to be made about such factors as aging, crack­ ::  ,  humidity, and electrode size.  The test evaluated can only measure the relative life of any combination of insulation.  Irreversible thermal behavior of solid organic insulating materials is discussed by Reimer (7) in a German publication.  He studied the variation of mechanical strength, power factor, breakdown strength, and loss in weight of acetate, triester, polyamide and polyvinyl chloride foils, cellulose paper, varnishes and resins after aging at various temperatures.  He concludes that satisfactory thermal classification of a material must be based on a knowledge of several of these properties.  Maxwell (8) indicated that the mechanical engineering of dielectric components for electronic applications cannot be attacked by the same methods used for more conventional materials.  The effects of time and temperature must be considered in reference to the types of loading to be expected and the ambient temperature.  Proper selection and design can only be accomplished after consideration of three-dimensional plots of the engineering properties versus both time and temperature.  A review of problems and recent developments regarding temperature classification of insulation was presented by Sidway (9).  He discusses AIEE Standard No. 1 (revised February, 1954), International Insulation Standards (International Electro-Technical Publication No. $34$ ), and test codes which will supplement these.  Thurn (10) reported that.dielectric constants, sound-transmitting properties, and ultrasonic damping power are functions of temperature. Diagrams and graphs are given.  Chapman and co-workers (11, 12) show the effects of temperature and humidity on permittivity, loss angle, electric strength, flashover voltage, and surface and volume resistivities of molded mica-filled phenoliCS, glass, silicone laminate, polyethylene, and poly­ tetrafluorethylene (Teflon).  Moisture affects electrical properties at low frequency and direct current more than at radio-frequency. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mason  (13 ) reports that breakdown channels propagate fram steel needle-point electrodes embedded in polyethylene and polyisobutylene when the maximum effective stress at the end of the point reaches the intrinsic electric strength of the material at the test temperature.  The average breakdown stress shows no Significant variation with the radius of curva­ ture of the point  ( for radii of 1 to 20 microns) ,  but,  at room temperature, about 25 per cent greater stress is required with a negative than with a positive point,  Henri-Robert  (14) indicates that the measurement of dielectric properties at radio-frequencies requires methods and equipment too delicate to be used as a practical aging test of vulcanizates.  However, it should give useful data,  at research level,  on the way oxygen tends to combine with rubber according to the various methods of aging. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Hawley  (15 )  reports that breakdown of solid dielectrics exposed to corona may be the result of either general chemical deterioration or local instability caused by the concentration of discharges at certain points on the surface of the dielectric.  Hawley mentions that Thomas has shown that gaseous discharge products, such as ozone and nitrogen OXides, cause chemical deterioration and an associated increase in power factor which is absent if tests are made in an inert atmosphere;  and Standing has shown that the impulse electric strength of solids is little affected by discharges in the medium,  but in tests of a minute or even a few seconds duration, discharges cause considerable reduction in electric strength which cannot be attributed to chemical deterioration. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Corona tests on sheet materials without introduced voids are reported by the General Electric Company  (16) .  The reasons for breakdown and the relation of corona are presented.  Voltage stress rating and corona starting voltage stress are given for a variety of materials. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Effects of fungi on characteristic aging properties of insulating materials were studied by Teitell and co-workers (17) .  They considered the effects of fungus growth on direct-current surface conductance of nylon,  Saran,  vinyl, polyester, and polyethylene tapes,  as well as on Teflon, wax, ethylcellulose, methyl methacrylate, and polyvinyl c oride. The surface conductance of the materials was increased fram 1 x $10^{4}$ to $\\mathtt{1}\\textbf{x}\\mathtt{1}0^{5}$ micromicromhos in the presence of viable fungi and 100 per cent relative humidity.  Rogel  (18) found that the effects of soil micro­ organisms on the physical and electrical characteristics of radiO-frequency cables is caused by plasticizer.breakdown or actual utilization by the micro-organism of the plasticizer.  The author conducted his studies with a variety of materials such as chlorinated polyethylene,  vinyl resin, unplasticized nylon, and polyethylene.  After 30 months of soil exposure, the least funp,us growth occurred with pigmented blue Rulan chlorinated polyethylene and unpigmented nylon. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3. Materials and Applications ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A comprehensive account of dielectric materials and applications is presented  in a book edited by A.  R.  von Hippel  (19).  The book was ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "written by 22 specialist contributors and aims at providing a textbo k and reference work for the  \"research worker, development engineer,  manufacturer, field engineer, and actual used of nonmetals.\"  Techniques for the meaSUI'e­ ment of permittivity and permeability, microwave spectroscopy, and magnetic resonance are described, and dielectric materials of all kinds are discussed .. Tables giving the dielectric properties of more than 600 materials in the frequency range from ${\\mathfrak{10}}^{2}$ to $2.5\\times10^{10}c/\\mathrm{s}$ and for temperatures up to $500^{\\bullet}\\mathtt{C}$ are included.  A general survey of insulating materials used in the manufacture of machines and cables with particular reference to latest de­ velopments is given in a Hungarian publication (20) .  The properties and fields of application of natural and synthetic lacquers are discussed. Emphasis is on latest developments in synthetic materials such as resins and p.lastics.  Heat-resisting properties are discussed and characteristic curves and tables presented.  The properties and fields of application cJ' natural and synthetic insulating materials are discussed by A.  Szent-Martony (20) with particular emphasis on their latest developments.  Heat-resisting properties are discussed and characteristic curves and tables are presented. Some properties of presentday insulating materials are presented by Nigg (21) in a French publication.  The chemical, mechanical,  and electrical properties of silicone rubbers ,  polythene, Teflon, and Kel-F are considered in some detail.  Silicone materials for insulation purposes have become of considerable interest in European countries.  In a German publication, Lissmann and Ploch (22) discuss versatility and properties of silicones used as insulators and in electrical eqUipment.  Andrianov (23), in Russia, presents the relation of dielectric properties of silico-organic polymers to physical conditions.  Physical and mechanical properties are presented in graph and table form. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a. Natural and Synthetic Rubbers (General) ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Rubbers (natural and synthetiC), vulcanizing agents, accelerators , antiOXidants, loading materials ,  organic fillers and extenders, processing aids , activators , heat and ozone protectants, and fungicides are discussed from a point of view of compounding cable rubbers in Vanderbilt News (24) . Laboratory compounding studies , suggested formulations, polymer application, proceSSing, adhesion, and evaluation of cable compounds are also presented. Herzog (25) surveyed natural and synthetic rubbers intended for the elec­ trical cable manufacturer in a German book.  He pays special attention to relevant properties such as dielectric strength, breakdown strength, and dielectric constant. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Reiner (26) published a 2nd edition of his laboratory handbook for rubber, cable, and related industries .   This reference book covers the routine inspection of all raw materials and the practical aspects of re­ search and development into new applications and manufacturing processes. In a French publication, Dehez (27) presented an outline and comparison of the mechanical and electrical properties of natural and synthetic rubbers; neoprene, GR-S. •  butyl, hypalon, lactoprene, and silicone.  Marchesini and De Giorgi (28) summarized the applications of rubber and their application to electric cables in an Italian publication.  Tables of the important ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "properties of natural and butyl rubber, including information about deteriora­ tion with time and ozone exposure are presented. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "DeBaene and Anderson (29) made studies on the effects of moisture and ozone-resistance of rubber insulation.  Power factorand electric strength measurements after immersion in tap-water at 50 C for periods of three year  indicate that RH-RW compounds, in general,  have better moisture resistance than ozone-resisting compounds.  All samples tested were made from Buna S except one brand of ozone-resistant rubber which was mad.e from a natural rubber base.  ?ragin and Markosyn (30) presented results of an experimental investigation of the water absorption of insulating rubber mixtures and the dielectric characteristics (loss angle , permittivity, and breakdown voltage) fo  a.c.  depending on water content . ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "b. GR-S ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "General properties and electrical characteristics of a GR-S rubber are discussed by Womack and Kuckro ( 31) .  They discuss compounding and mixing properties and show dielectric characteristics to be superior, in many respects, to the best electrical grade butyl rubber.  Improvements of cold over hot GR-S for wire insulation are presented by Howland, Brown, and Lawson (32) .  The stocks that they mention are nonstaining and nondis­ coloring on aging in sunlight. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The use of a butadiene-styrene copolymer in electrical insulating materials is presented in a pat.ent to the Monsanto Chemical Company (33 ) . The obje t of the invention is to provide an economical and compact insu­ lation between the wires of a coil winding, using only a semi-circular segment of insulati.on · o'- ring the lower half of the wire.  This is formed by extruding onto the wire a complete insulation comprising 70 to 90 per cent polystyrene and 30 to 10 per cent of a copolymer of 2 to 80 per cent butadiene and 98 to 20 per cent: styrene.  By controlling these proportions , the insulation can be split in half without shattering as the insulated wire is wound on the coil. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "c. Butyl Rubber ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Butyl rubber compounding for insulation was discussed by Schwartz $(34)$ .  Information is given on standard \"base\" formulations ,  methods of mixing and accelerating these formulations.  The results obtained by following the outlined procedure are preser ted .  Butyl compou,nds ,  properly mixed and processed, are said to ha7e the lowest water absorption of any vulcanizable polymer.  C. W.  Smith (35) gave information on properties desired in wire and cable butyl insulation.  Some of these are smooth extrUSion, ozone re­ sistar.ce, good electrical properties not affected by water, and resistance to cracking and heat aging.  Comparison of sulfur with quinoid vulcanizations are also presented. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Carroll, Lee) and McKinley (36) have shown, by theoretical and chemical analyses, that.  butyl rubber is a material which provides excellent resi.stance to oxygen, ozone,  sunli.ght, heat aging, and other factors normally responsible for the deterioration of natural rubber or unsaturated elastomers such as GR-S.  The paper presents data on cables manufactured over a period of 11 years, which supports the theoretical conclusion as to the excellence of this material when used as a high voltage solid dielectric. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "One of the more important applications of butyl during 1955 was as a new nontracking material for high-voltage instrument transformers. The action of nontracking butyl is discussed by Pfuntner, Norman, and Wilterdink (37) .  The new nontracking butyl insulation will not carbonize even under severe surface contamination,  has been applied to 15, 000-volt outdoor current transformers, and makes practical still higher voltage for outdoor use.  The elimination of metallic casings, porcelain bushings, and gasket seals effects a reduction in size and weight, and reduces maintenance. Results are given of laboratory and outdoor service tests on complete trans­ formers . ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "d. Neoprene ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Safe-processing, water-resistant neoprene compounds for wire and cable applications were discussed by Bedwell and Baker (38) .  Laboratory evaluation of a water-resistant Neoprene Type W compound, employing a com­ bination of red lead, Thionex, and sulfur as a curing system,  showed that a one-stage mixing process may be used with a degree of processing  \" ::' ;ty equal to that obtained in a two-stage process.  Influence of antioxidants on resistance of neoprene to ozone and to the corona effect was given in a French publication (39).  A mix cited as an example for lighting cables consists of Neoprene GNA, 100 parts; extra light calcined magnesia,  4; Akroflex CD,  3; EPC black,  3; Circo light process oil, 10;  Heliozone,  5; stearic acid, 1; Neofrantex,  80;  zinc oxide, 10; and Na-22,  0. 5 part. Vulcanization is effected in an autoclave at 150 C for 20 minutes. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The effect of blistering on neoprene jackets was given in a pub­ lication of the Underwriters' Laboratories, Incorporated (40).  The publi­ cation indicates that for neoprene-jacketed Type RHW wire tested for long periods at $75^{\\circ}0$ , considerable blistering occurs which is undesirable from a standpoint of appearance,  but does not affect the electrical and protective properties of the sheath. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "e. Fluorocarbon Rubbers ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Hamlin (41) of the Wright Air Development Center discussed fluorocarbon acrylic elastomers for use above $\\bar{3}00^{\\circ}\\bar{\\mathbf{F}}$ .  He indicates that such elastomers are flexible between -lO and $400^{\\circ}\\mathtt{F}$ and resistant to glycols , hydrocarbons, diester fuels, and synthetic lubricants.  PhYSical properties are tabulated. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Conroy and Robb ( $42)$ discussed properties of a Kel-F elastomer as a new material for the electrical industry.  They claim that this elastomer is suitable for special insulation that must withstand heat and chemicals and have  high strengths.  Suggested applications included sheathing tapes, potting compounds, electrical connectors, grommets,  and seals. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "f. Silicone Rubbers ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The compounding principles of silicone rubbers were presented by Pfeifer $(43)$ .  Methods of compounding general-purpose,  low-shrinkage-low compression set, and low-temperature silicone rubbers were described. Silicone elastomers as applied to the electrical industry were presented by Burniston $(44)$ .  He compared properties of these elastomers with those of natural rubber.  In the field of electrical insulating sleevings,  the extruded silicone sleeving compared favorably with the best from the point of view of electrical characteristics, ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Short $(45)$ presented properties of silicone rubber particularly suited for insulation.  Applications include insulation for the following types of wire:  electronic hook-up, aircraft, ignition, apparatus lead, and refrigerator defroster;  and for heating, control, and power cables. Methods for tailoring silicone rubbers to meet electrical requirements were given by Noble and Lupfer $(46)$ .  The effects of three silica fillers on electrical properties of vulcanized silicone-rubber mixtures were studied and are reported on. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The development of resinous and rubbery silicone materials that retain their phYSical and dielectric properties at temperatures ranging from -150 to $600^{\\circ}\\mathbf{\\overline{{F}}}$ for silicone rubber and from $-250^{\\circ}\\mathbf{F}$ to ${\\tt1500^{\\circ}F}$ for resincus silicones were presented by Kauppi $(47)$ .  Silicones in naval shipboard electrical c;uipment were discussed by Walker and Van Lear $(48)$ . Materials used in ships must withstand, vibration,  ·':8 .th.e ring,  salt and fresh water,  oil,  and a wide range of temperatures. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "g.  Plastic Materials  ( General) ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Falkenberg  (49) discussed plastic materials and their applica­ tions in t e electrical industry.  Their uses for the production of electri­ cal apparatus and insulators, as impregnating materials,  and as wire and cable insulation were presented.  Fuzzare  ( 50) reviewed thermosetting and thermoplastic plastics such as vinyl reSins, polyethylene,  nylon,  and acrylics in the electrical and electronic fields.  Brief details on com­ pression and injection molding are given, ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Electrical and mechani.cal properties of fabric-base phenolic, paper­ base phenolic, glass-melamine, and glass-silicone laminates were discussed by Winans.,  Fried,  and Hand  ( 51) .  The possible inadequacy of short-time conditioning in moi.sture-resistant tests was pointed out.  The glass-silicone material was superior to the other materials tested under high humidity con­ ditions or when wet.  The results of the investigation demonstrate the hazards of drawing conclusions about insulating materials based on short duration of conditioning. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Characteristics of laminated plastics were presented by Skow ( 52) . He gives reference charts useful to the electronic designer which provides simple means of checking relative properties of various grades of certain laminates. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "One of the. most interesting highlights in the electrical field has been the work in progress on arc resistance and tracking characteristics for plastic insulating.materials .  Spiers and Wikstrand ( 53) gave informa­ tion on arc resistance and tracking characteristics for 13 plastic insula·'·,:L:.lg materials .  In a German publication, Schumacher ( 54) discussed the mechanism of tracking and a '.'glowing-wire \" test for investigating tracking by thermal decomposition.  Tests on numerous materials showed that their chemical com­ position determines the rate of decomposition, the quantity and conductivity of the residue formed, and, hence, their tracking resistance .  Requirements for good tracking resistance were discussed . ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The la';\", st methods of testing and specifications for electrical insulating materials were prepared by ASTM Committee D-9 ( 55).  The book includes 60 test methods, 17 specifications, and 3 recommended practices. Four appendices discuss the following points:  (a) significance of tests on electrical insulating materials (b ) recommendations for writing statements as to the usefulness of tests on electrical insulating materials (c ) method of testing the dielectric constant and dissipation factor of aviation fuels and (d) method for pasted mica used in electrical insulation. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Field and Hazen, at the SympOSium on Electrodes held at the Washington, D. C .  Meeting of Committee D-9 ( 56), discussed papers on the air-gap method for dielectric measurements.  Evidence was presented to show that a test method based on an air-gap or,  in effect, a missing electrode may obviate many of the difficulties inherent in placing an electrode in intimate contact with the test specimen . ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A general publication in an insulation periodical ( 57) discussed the dielectric constant of electrical materials with emphasiS on applications . ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Polyethylene ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "During 1955, the term polyethylene has come to mean three types of plastic, the conventional polyethylene, the new low-pressure polyethylene, and irradiated polyethylene .  A thorough treatment of polyethylene film with special emphasis on its use in capacitors was given by Mistic ( 58) . The general and electrical characteristics of polyethylene are reviewed briefly,  A more detailed discussion is given of the effect of frequency change on polyethylene capacitors, capacitance drift, insulation reSistance, dielectric absorption and strength, and corona resistance. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "An investigation of the dielectric losses of polyethylene was reported by Mikailov, Kabin, and Sazhin ( 59) .  It was found that three types of losses occur and are explained on the basis of the partly crys­ talline nature of the polymer.  The Bakelite Company described the burning characteristics of polyethylene-covered line wire in a brochure ( 60), while another article discussed the attack of polyethylene insulated wire by the ant Monomorium destructor (61). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "New developments in irradiated polyethylene were summarized and some applications described (62) .  This material is now being used in the form of tape, tubing, rods, and as laboratory ware .  Other applications of irradiated polyethylene as formable sheet were discussed by Bockhoff and Neumann  (63 ) .  Wire coatings of this material are particularly desirable because of freedom from stress cracking. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The new low-pressure polyethylenes were discussed by Lurie and Snyder (64). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A comprehensive paper on the principles of quality control of vinyl and polyethyle1l.e electrical insulating and wire jacketing materials was presented by Boyd ( 65). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Burroughs and Lewis ( 66) discussed the performance of polyethylene in the wire and cable field .  They indicated that polyethylene performance is improved both by basic changes in molecular structure and by advances in compounding. with improved stabilizers and other ingredients .  To achieve greater crystallinity and toughness , short chain branching was desired and the result was a development of polyethylene of high crystallinity and high molecular weight.  Foster and Spohn ( 67) showed by accelerated heat-aging studies tnat polyethylene of high crystallinity is superior for wire and cable applications .  It was possible to age polyethylene in an oven at $\\mathtt{100^{\\bullet}c}$ , then remold .i t to obtain original properties , shOWing that the aging was reversible. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Irradiated polyethylene was shown by Goodwin (68) to have advan­ tages oyer standard polyethylene in that it can be used at higher tempera­ tures and is resistant to stress cracking .  It offers the possibility of encapsulation of conductors or various electrical devices to provide a water-tight case , and should be considered for use wherever layer insulation such as varnished cloth is now used.  Set-backs of polyethylene in the application to electric cables were presented by Palandri and Pelagatti ( 69) They describe such set-backs as stress cracking, brittleness due to atmos­ pheric agents , and thermal expansion stress.  Remedies are given for these set-backs .  A British cable manufacturer indicated that polyethylene is the most suitable insulation for high-frequency cables (70) .  Among recent developments was cellular polyethylene which is used for television dowrJLead coaxial cable .  This material opens up new possibilities in the direction of low permittivity coupled with low dielectric loss and adequate mechanical strength . ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "i. Polyvinyl Chloride ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Polyvinyl chloride continues to play a very prominent role as a dielectric material.  It is one of the most widely used plastics for insu­ lating purposes .   Recent articles include a description of the use of poly­ vinyl chloride (PVC ) for molded parts (71) , illustrations of the applications of a German product (72), and a comprehensive discussion of the weathering of PVC  ( 73 ) . ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A patent was issued (74) that claims the improvement of PVC insulation by the incorporation of a pentaerythritol dibutyrate dicaprylate plasticizer .  The plasticizer enables the insulation to retain its properties during use at $90^{\\circ}$ under dry heat, and at $60^{\\circ}$ under wet conditions . ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The effects of conductor temperature on the quality of extruded vinyl wire insulation was discussed by Griesser (75).  He indicates that Heat-shock failure can be overcome by extrusion at an optimum temperature or higher .  However, little or no improvement of other properties is attained by high temperatures without preheating the conductor .  Preheating the conductor merely to eliminate chill does not assure good quality, but temperatures of $300^{\\circ}$ fto $350^{\\circ}\\overline{{\\mathbf{F}}}$ are effective .  Therefore, it is recommended that conductors for vinyl insulations be heated to at least 300 F to assure optimum tensile strength, elongation, and minimum shrinkage. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Recently the Japanese performed considerable experimentation with PVC compositions for electrical insulation.  Although these are $2954$ references, they did not appear in last year's Digest and are felt note­ worthy at the present time .  Suto and Matsush1ma (76) made observations on the dielectric constants of PVC compounds in the plasticizing process . Measurements of permittivity, during the mixing and the plasticizing processes , showed its maximum value with the advance of plasticization, the figure falling gradually to a constant value .  It would appear that through the action of plasticization, PVC polymer molecules pervade the plasticizer through a \"swelling process . \"   Kawai and Masuzawa (77) studied the dielectric behavior of PVC dioctylphthalate systems .  They find that while the most beneficial plasticizing agents for PVC resins are ':::;.  , tyl­ phthalates , there are appreciable discrepancies between the behavior of di-2-hexyl phthalate and di-normal octylphthalate .   The correlation between mechanical and dielectric behavior in regard to these discrepancies are discussed. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The dependence of volume resistivities of PVC compounds on plasti­ cizers employed were presented by Takahashi and co-workers ( 78) .  Twelve kinds of PVC compounds with different plastiCizers were prepared and investigated.  It was concluded that the dependence of resistivity on the kinG 0f plasticizer arises out of the microscopic viscosity and the number of mobile ions determining resistivity is almost constant,  i . e . ,  independent of the kind of plasticizer . ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The properties of 6OO-volt vinyl wire and rubber-insulated wire wi th regard to excess current was discussed by Tanaka (79).  The findings of a two-year research program on this subject are as follows:  (a) below 60 C, the two types of wire can be considered equivalent except in the case of small conductor sizes; (b ) for both types of wire, the minimum temperature at which smoking of the insulation starts is about $\\mathtt{120^{\\circ}C}$ , and hence , the short-time maximum permiSSible conductor temperature is con­ sidered as $\\mathtt{100^{\\bullet}c}$ ; ( c ) the curve shOWing the relationship between the con­ ductor temperature rise and the time of r.· M of a specific current value is somewhat steeper for vinyl wire than for rubber-insulated wire;  (d) with an excess current of 900 per cent or more , smoking and eruption of vinyl wire take place almost simultaneouslYi and (e ) neither type of wire smokes and both are safe so long as they are protected by a JIS C-9313 fuse with a rating equal to the maximum permissible current for the particular wire . The trend toward vinyl insulation in automotive wiring systems was given by Publow (80).  Historical backgrO'lmd of the change from braid-covered rubber insulated automotive wiring to vinyl insulated material was presented.  Comparison of new construction with the old shows improvement in resistance to discoloration, flammbaility, resistance to attack by fungus , and to lubricating oil .  Improvements were also noted in electrical properties , but most important was the improvement in resistance to abrasion and low-temperature flux. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A PVC jacketing material for high-frequency cables was presented in a U. S .  Patent (81) .  The aim of this material is to provide a non­ flammbale thermoplastic jacketing composition useful for sheathing high­ frequency coaxial caQles havir  a polyethylene dielectric and capable of withstanding a range of temperatures from _40 to $+200^{\\circ}\\mathrm{c}$ .   The composition used is a PVC resin plasticized with a sebacic acid ester of 1,3 butanediol . ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "j • Polystyrene ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The casting resins containing polystyrene, developed by the National Bureau of Standards , were the subjects of several articles. Casting resin AN-5 is essentially styrene modified with acrylonitril , divinyl benzene, hydro-generated terphenyl, polystyrene , and cobalt drier . The general characteristics of this material were discussed in a recent article (82).  A similar resin in which the acrylonitrile is substituted with fumaronitrile is called FN-2 . 5 (83). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A patent was issued to Olin Mathieson Chemical Corporation, covering a wire conductor insulated with a polymer of 2, 5-dichlorostyrene $(84)$ . ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "k . Polyesters ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "'lb.e increaSing use of polyesters in electrical insulation is . evident from the literature .  An anonymous author (85 )  reviewed the prop­ erties and uses of polyethylene terephthalate film.  'lb.e dielectric strength was reported to be 4, 500 volts per mil at $25^{\\circ}0$ for 2-mil Type A film. Combinations of the film and other insulating materials were discussed.  The use of polyester film in insulating telephone switchboard wire waS indicated by an anonymous author (86).  Mistic (87) discussed the properties of poly­ ethylene terephthalate and evaluated it as a capacitor dielectric.  Various uses including electrical insulation were reviewed by an anonymous author (88). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Fletcher (89) explained the use of polyesters in encapsulation and potting techniques .  The chemistry of polyester and epoxy resins was studied and the essential properties of 39 grades of resins were tabUlated.  Some examples of cast-resin work in electrical components ,  such as terminal strips and cable terminal blocks , were given by Black (90) . ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "White (91) gave case-history analyses of applications of glass­ premix compounds as insulation and structural materials .  Some compounds were found to have excellent resistance to tracking (ASTM arc resistance is 130 to 180 seconds as compared to approximately five seconds for most general-purpose phenolics ) .   A heat-resistant polyester laminate that might be of interest to the insulation engineer was discussed by Cummings and Botwick (92) .  Diallyl bicyclo 2, 2, 1 hept-5-ene-2, 3-dicarboxylate monomer was used in a test laminate that survived 192 hours at $500^{\\bullet}\\mathtt{F}$ with measurable flexural strength . ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "A British Patent, Number 722,829, was issued to Zetie and Simpson (93 )  for a polyhydric alcohol polyester especially for the insulation of copper and copper alloys .  An anonymous author (94) revealed an improved synthetic resin insulation for coils.  Mica chippings are bonded to a tape and the coil impregnated with resin after application of the tape . ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "L Epcr.;;y Resins",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Epoxy resins were of the greatest interest in embedding circuit subassemblies and components .  Blanke (95 ) gave a step-by-step case-history report of experience with cast-resin embedments of airborne equipment . Filled epoxies were found superior to filled polyesters at high operating temperature and for long-term temperature cycling tests .  Javitz (9' ) studied the compounding of epoxy resins and their application to specific design requirements .  Condensed test data are included .  Epoxy foam. formu­ lation for aircraft electronic potting was briefly mentioned by an anonymous author (97) • .  The potentialities of epoxy resin mounting techniques for high reliability in miniaturization and other applications were discussed by Myers (98) .  Farneth and Gallousis (99 )  presented a paper on the use of epoxy resins as insulation for dry-type current transformers .  The good performance of 600-volt current transformers subjected to severe testing conditions indicates that the use of such techniques and resins is feasible at higher voltages and currents .  The casting of instrument transformers in Europe was reviewed by De Senarclens (100) .  Fletcher (101) discussed the chemistry of epoxy resins and production techniques used in encapsula­ tion and potting. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "De Senarclens (100) discussed epoxy-resin impregnated mica-foil for bar insulation in rotating electrical machines and compares this develop­ ment with conventional types . ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "m. SilicOne Resins ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Evaluation and application of Silicone-organic resin combinations for dry-type transformer insulation were presented by Simmons and Scheideler (102) .  They find that by applying silicone resins as a surface treatment to conventional $150^{\\circ}0$ base insulations,  it is possible to combine the high dielectric and mechanical strength of the organic impregnant with tempera­ ture and moisture resisting characteristics of silicones .  The insulation was evaluated by its dielectric strength at elevated aging temperatures ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(using 50 per cent reduction as a criterion) and by the power factor after exposure to high humidities .  Sampl.es were made to test-turn layer and barrier insulation.  This composite insulation can operate at a hot-spot temperature of about ${}^{200}{}^{\\bullet}{\\tt C}$ . ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Thermal. stabil.ity of a new insulating material. used in traction motors is discussed by Finhol.t (l.03) .  Life and fiel.d tests were carried out on mica mat treated with sil.icone resin .  The effects of heat in combi­ nation with humidity, pressure ,  and vibration were studied.  The mat is not a universal. substitute for mica tape, but is quite. suitabl.e at high temper­ atures if there are no high pressures . ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Functional. temperature-endurance tests on a sil.icone glass-fiber insulation system for dry-type transformers were discussed by Manning (l.04)., Model. transformers insulated with composite sil.icone glass fiber, correspond­ ing to l.5 kV class insulation, were subject to0 over0vol.tage p0r oof tests and power factor tests after $48$ hours aging at 200, 275, and 350 C and after 24 hours at 90 per cent relative humidity.  The resul.ts support the $\\mathsf{180^{\\circ}c}$ hottest-spot temperature rise specified for group three dry-type transformers. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Modified insulating varnishes having improved physical. properties to 250 C were discussed by both General. El.ectric and Dow Corning Corporation (l.05, l.06) .  High bond strengths coupl.ed with good sol.vents indicate that these compositions are suitabl.e for impregnation of armatures, heavy-duty motors , and dry-type transformers . ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "n. Fl.uorocarbons ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The mol.ding and fabrication of pol.ytetrafl.uoroethyl.ene were dis­ cussed and some appl.ications of this material. and its dispersions were reported (l.07) . \"Tefl.on\" has been establ.ished as a Class C material. for el.ectrical. insulation and data were given to show its diel.ectric properties before and after aging (l.08) .  A very compl.ete el.ectrical. description of \"Tefl.on\" was given by Mistic , with reference to its use in capacitors ( l.09). Improvement of properties and reduction in costs of \"Tefl.on\" appl.ications were accompl.ished by the use of fi1.1.ers (l.l.0).  A patent was granted to General. El.ectric on the use of pol.ytetrafl.uoroethyl.ene as an insulation for el.ectrical. conductors (l.l.l.) . ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The use of Kel.-F plastic in the wire and cabl.e industry was given by Jupa and Ke1.1.ogg (l.l.2).  Properties of pol.ytrifl.uorochl.oroethyl.ene were discussed.  A British patent discussed dispersions or emul.sions in water of pol.ytetrafl.uoroethylene and organopol.ysil.oxane resin ( 1.1.3 ) . Relativel.y thick coats can be appl.ied by this method without danger of cracks .  Improvement of monochl.orotrifl.uoroethyl.ene' insulated hook-up wire was discussed in a report by the Revere Corporation of America (l.l.4). They discussed the effects of manufacturing variabl.es from different l.ots and suppl.iers and the resul.ts of heat-aging tests.  Heat-aging tests indi­ cated that for certain conditions , in terms of performance, monochl.orotri­ fl.uoroethyl.ene meets the desired criterion of 75 per cent retention of the vol.tage breakdown val.ues . ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In a U.  S .  Patent, Dorst (115) discussed a conductor, which is insulated by a ceramic undercoating and then passed through a suspension of dimethylpolysiloxane , polytetrafluoroethylene, or another thermoplastic resin.  The suspension medium, e.g . ,  EtOH or $\\mathtt{H}_{2}0$ , is baked off at 75 to 200 degrees, which is below the sintering temperature of the resin.  Sub­ sequently, coils are wound on cores and heated to 200 to $475$ degrees under pressure .  This fuses the polymer particles and results in a compact cylindrical coil .  For a lower operating temperature , thermosetting cross­ linked linear polymers can be used. \" ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "o . Paper Insulation ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "A considerable amount of work during 1955 has been performed in the development of new and improved paper insulation for high-voltage applications .  An improved glass -fiber paper development was reported by the National Bureau of Standards (116).  Through research, the Bureau has succeeded in producing an all glass paper eight times as strong as that first made in 1951.  Scientists at the Naval Research Laboratory have been responsible for the development of specialty electrical insulating papers, such as glass -fiber paper, mica paper, and ceramic-fiber paper (117). They have come up with a paper made from flaked or foliated glass .   This paper has a dielectric constant, when unimpregnated, 20 to 25 per cent greater than that of paper prepared from mica.  Brazier (118),  in an English patent, discussed paper:.'c,.,ntaining 8 to 12 per cent by weight of polyethylene which was subjected to irradiation.  This unimpregnated and irradiated paper was then used to build up a conventionally insulated cable of the type in which the insulant was finally oil-impregnated.  Kalinin (119),  in a Russian publication, discussed the ionization of an oil-impreg­ nated paper insulation.  He indicated that the initiation and development of characteristic ionization are materially influenced by the field of space charges inside the dielectric.  This ionization is not observed under steady d.c. conditions , but an analogous type of ionization occurs during transient aperiodical phenomena, except for the fact that its character is unsteady. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Publications by the Japanese on paper insulation not covered in the JAst Digest and worthy of notation include that by Naito and co-workers (120), in which they discussed the relationship between dielectric power factor and small moisture content of insulating paper and oil-impregnated paper for high-voltage cables .  Ueoka (121) discussed the determination of dielectric strength of oil-impregnated paper insulation by d . c .  charac­ teristic test. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4. Insulation Applications ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "a . Casting and Encapsulating ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Techniques for the utilization and modification of encapsulating resins were presented by Linden (122).  He briefly discussed methods of encapsulation and lists tables of encapsulants .  An automatic machine for cast resin applications was described by Sensi and Franklin (123).  A design for cast components and circuit subunits was facilitated by the use of an automatic production-line resin mixing and potting or embedment machine. The principal advantage is the elimination of a short-time wasteful opera­ tion previously imposed by the limited pot life common to most two-constituent resins used in casting .  The machine cycle begins by mixing a base resin and a catalyst in desired correct proportions by means of gear-driven proportioni.ng pumps and ends by filling the unit to be cast .  The authors provided details of machine design, construction, and operation.  The effect on heat dissipation of fillers in a casting resin was given by Gehrke (124) • .3M-Scotchcast No .. 3, silica filled, was used in hermetically sealing a 10)/000 volt,  5-ma power supply to provide against corona effects .  Heat dissipation was most rapid with silica as compared to aluminum oxide or mica . It was measured by embedding a 10-watt resistor with 10 watts of power applied and measurL  temperatures in the casting at various distances from the resistor. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "In a German publication, Imhoff (125 ) gave details of cast-resin insulation .  He discussed admissible voltages, casting in successive layers, and ber vior under spark discharges in the presence of liquid diphenyls and fluorocarbons .  Definitions of casting resins - embedment, encapsulation, and impregnation - were given in an article appearing in Electrical Manufac­ turing for May,  1955 (126) . ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "b . Wire Coatings ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The determination of thermal life of enamelled wire by laboratory methods was studied by Sattler (127) .  He describes four tests.  A test in which the sample is aged at a given temperature and tested periodically at a specific voltage until breakdown occurs was considered the best method of evaluating thermal life\"  A method for evaluating the thermal stability of magnet wire enamel was described by Currin and Dexter (128) .  Studies were made of the tests under different sample preparation methods, failure criteria, and aging conditions.  Results determined by this test were com­ pared with motor-aging test results on the same enamel-impregnating varnish insulation systems.  This comparison showed that the test method can be correlated with the results of a more complicated motor test program. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "A·new enamel which is a modified polyester type resin containing 20 per cent silicone was reported on by a research group at Westinghouse Electric Company (129) .  This new insulating enamel has been tested for over a year in motors, and in transformers and coils of high-temperature re:layso  The enamel has been successfully applied to all copper wire from gauge 40 to gauge 10.  Resistance to Freon 12 and 2·2 is ss.id to be three times better than conventional wire coatings.  Westinghouse claims that raising the tem,perature limit to $325^{\\circ}\\mathtt{F}$ will permit a reduction in the size of present motors.  The insulation thickness would be reduced by 50 per cent, making a 7-l/2-hp motor no larger than the 5-hp motor of today. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Heat stable, insulated electrical conductors and process for pr-odu ing same were described in a U.  S .  patent (130 ) .   The process is for coating a flexible electrical conductor wire, which process comprises ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "electrophoretically applying to wire a coating of refractory particles and of particles of a resin of polymers or copolymers of tetrafluoroethylene, and then fusing the resin particles together.  Latour and Gzylewski (131), in a Polish publication, discussed methods of impregnating windings with glyptal .lacquers.  The structure of oil-resistible glyptal lacquers was reviewed in more detail.  The procedure of impregnating paper in vacuum and at atmospheric pressure with lacquers, particularly with Polish-made glyptal lacquer, was reviewed.  The results of testing the properties of test samples so impregnated were given. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "c. Motor Insulation ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Motor insulation developments - now and tomorrow - were presented by Wilson (1: ).  He discussed recent developments in conductor coatings, especially Dacron fiber wound parallel and side by side with glass and laid down as a double or single serving upon electrical conductors.  This material, after heat treating, provides a durable chamical resistant prime insulation which has rugged thermal endurance.  Conductor coating compounds belonging to the epoxy family are now in production.  Teflon is a valuable produce combining chemical stability at high temperatures with almost complete chemical inertness, but the difficulty of bonding Teflon to other materials greatly limits its usefulness.  Other items discussed were:  today's impreg­ nants and understanding silicones.  Future developments included triallyl cyanurate as a crosslinking material and radiation-sensitive materials. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "A new insulating material for traction motors was described by Finholt (133).  He described the use of mica-mat sheets impregnated with alkyd reSin, silicones, and polyesters.  Tests were run on sheets heat-aged at $250^{\\circ}c$ for five days.  At the end of the test period, only the silicone­ impregnated sheet retained its original properties.  Service tests indicate mica-mat is a superior insulation for traction motors. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Schneider $(234)$ discussed Thermalastic insulation which has been developed to meet the severe operating conditions encountered in the rubber and plastics industries where air is liable to be contaminated by chemicals and conductive carbon black.  This insulation uses mica tapes and wrappers, the bonding resins of which react chemic cally with the coil impregnant to form a homogeneous mass<  The low viscosity impregnant completely fills minute coil and insulation voids,  The insulated coil is vacuum and pressure impregnated with solventless, heat-reactive, synthetic resin, and then cured at a high temperature.  Advantages of Thermalastic insulation were listed and its applications described.  Shugal and Smirnova (135), in a Russian publication, described \"Plenkokarton\" as a new electrical insulating material. A new composite insulating material was developed for electric motors con­ sisting of electric pressboard bonded with triacetate sheet.  The bonding agent. is a varnish either of the polyacrylate type or consisting of a mix­ ture of glyptal-oil and phth:'1.lic triethylene-glycol varnishes.  The varnishes are used in a concentration of 75 to 80 per cent, thus preventing warping of the pressboard by an excess of solvent.  The \"Plenkokarton\" is produced on a machine of the conveyor type on which the combined operations of varnishing, drying, and bonding of the triacetate sheet with the support ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "are carried out .  Electric motors with this insulation have a higher insula­ tion have a higher insulation at 95 per cent r .h .  and $\\mathtt{125^{\\circ}C}$ than motors with conventional insulation .  The insulation is also cheaper than more elaborate types of insulation with varnished cloth and silk. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Properties of bituminous materials used in the manufacture of electrical machines were presented by Urban and Kiss ( 136) in a Hungarian publication .  Studies on mechanical and electrical characteristics of contact resins and laminated bakelite were given. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "d. Printed Circuits ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "A summary of the status in printed circuits was reviewed by an anonymous author (137) who pointed out that interest in printed circuits is growing rapidly.  Laminates for printed circuits were described by Skow (138) •  Three ingredients and procedures for manufacturing metal clad laminates were discussed.  Processing methods were varied, but most utilize some form of photoetching or silk screening.  Present and future civilian applications of printed circuits also received attention.  Shortt (139) discussed the versatility of printed circuits .  Unique properties of printed circuits make them highly adaptable for a wide variety of applications out­ side of the electronics field.  Contact decks in compact switches, resistance strain gages , power transformers ,  airplane deicers and wiring harnesses were among the new applications discussed in this article . ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "e . Wire and Cable ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Methods for choosing electric cables were described by Barnes ( 140) in an English publication.  This monograph provides a comparative analysis of cable structures in relation to installation conditions .  The wiring of buildings , factories, and houses by means of vulcanized rubber insulated cables was examined, and the advantages and limitations of modern thermoplastic insulated cables and synthetic rubber insulated cables were compared.  Impregnated paper insulated power cables and va ished cambric insulated cables were also discussed.  Dielectrics in cables were discussed by Salvage (141) .  The history of high-voltage cables from the 10 kV cable of 1890 to the 425 kV cable at Stenkullen, Sweden, was surveyed.  Cables dealt with, in turn, included solid types up to 33 kV and oil-filled cables or gas-pressure cables above that voltage .  The alternatives to oil-impreg­ nated paper cables are varnished cambric ( up  to 11 kV) ,  rubber ( up  to 11 kV ill this country and $35~\\tt k v$ in America) , and polyethylene (trial installations up to 11 kV) . ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Performance characteristics of high-voltage rubber insulated cables were given by Rosch $(\\mathtt{142})$ .  This paper was concerned only with high-voltage cables in which the insulation is of rubber-like compositions and the outer covering is neoprene .  The essential properties of such cables were first summraized, and then the test results , which were given in tables ,  were discussed.  The tests included the effect of water and temperature on permittivity, power factor, and insulation reSistance, resistance to ozone, mechanical moisture absorption, dielectric strength at room and high tempera­ tures , and impulse electric strength . ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Power transmiss ion by insulated cable was discussed by Braz ier (143 ) , in a Canadian publication .  He drew a comparison of a cable manu­ facturing procedure and of the materials used, as between Britain and North America ,  and presents statistics on temperatures ,  stresses ,  tests ,  failures , and joint trouble rates experienced in the two countries • .  Future developments were outlined . ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "The  insulation of submarine telephone  cables was the sub ject of a lecture by Dean  (144) .  Comparisons were made between the use of poly­ ethylene and gutta percha .  Their advantages and disadvantages were presented .   Air -spaced construction and armourless cables were also dis ­ cus sed briefly . ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Construction details of the Denmark-to -Norway telephone cable were described in an English publication (145) .  Grade -2 polyethyl.ene , mixed with five per cent polyisobutylene and a small amount of antioxidant to guard against slight deterioration of properties during process ing,  is used as insulation .  Corrosion protection is afforded by a Telconax tape ,  impreg­ nated with a rubber -b itumen-wax compound .  To assist reduction in noise level ,  the land cable and the shore ends of the submarine cable are sheathed with lead over the outer copper conductor , which for these sections is in­ s14o.ted with a Telcothene sheath . ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "A comprehens ive paper covering the history,  route ,  construction, repeater equipment , performance ,  cable -laying detailS , and speculation about the new transatlantic cable project was presented by Kelly, Radley, Gilman, and Halsey (146) .  High-frequency aerial coaxial cabl.es were de ­ scribed by Leichsenring (147) in a German publication .  Types A and C are insulated with polystyrol disks .  In Type B,  the disks are of polyvinyl res in which has a much higher operating temperature than polystyrol ,  so that more than double the power can be transmitted with a Type B than with a Type A cable of the same dimensiOns ,  typical figures be ing 60 kW and $25\\,\\mathrm{\\DeltakW}$ , respectively,  at 200 NC/s and 35 C amb ient temperature .  Type A cables are available  in s izes 5/15, 7/21, 13/38, 20/58, and 36/105, the first number giving in millimeters the outer diameter of the inner conductor and the second the  inner diameter of the outer conductor .  TY,J>e B sizes are $^{14/40,~20/58}.$ , and $36/105$ , and Type C  s izes being $5/15$ and $23/{\\overline{{4}}}0$ .  For Germany, all have the standardized 60 $\\rightharpoonup$ characteristic impedance ;  inner­ conductor dimensions are varied to obtain impedance values of 50 or 51 . 5  fl. For the $5/15$ and $7/21$ cables ,  the  inner conductors are solid, but for all the others ,  both the  inner and outer conductors cons ist of two half -tubes with evenly spaced lateral grooves which take the copper bands holding the two halves together .  Power losses in the various cables are tabulated . Power -carrying capacities and cable attenuations at 100 $\\ensuremath{\\mathtt{M e}}/\\ensuremath{\\mathtt{s}}$ are shown in diagrams .  The spac ing of insulating disks  in the Type C cables  is  so small that the cables can be unwound from and rewound on their transport drums many hundred times without affecting either their mechanical or electrical properties . ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Plastics used to splice aerial cable were discussed by Falkenstein ( 148) .  laboratory results on materials such as epoxy,  Thiokol , polyester , and polyamide were presented .  A patent $\\left\\{249\\right\\}$ described jacketing material for high-frequency cables .  Details on a wire conductor covered with a jacket of polyethylene dielectric ,  then a braid ,  and then a noncontaminating polyester-plasticizer outer lamination were given .  A method for repairing thermoplastic cable  jackets us ing hot gas welding was presented by Pringle and Varenelli  (150) .  Gas welding of thermoplastics was performed us ing a hot  stream of dry gas  such as air ,  nitrogen,  or carbon dioxide .  Methods were  discussed .  The technique has proven  itself to be  reliable and satis ­ factory . ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "5 .  Electrically Conductive Rubber and Plastics ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Electrical conductivity experiments with high abras ion furnace black loaded natural rubbers were presented by Humphreys  (151) .  The effect of milling time ,  comparison of test procedures and estimation of experimental error , and effect of flexing on resistivity were described .  Cons iderable differences were found to exist between volume res istivities of vulcanizates prepared from a single mixing , and large between-mixing effects can also occur .  Contact res istance effects caused by bonded brass electrodes were shown to be negligible over a cons iderable range of bond strengths .  A formula containing sufficient high abras ion furnace black to place the vul ­ canizates nominally in the electrically antistatic range was employed through out the work . ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Electric measurements of conductive rubber were presented by Zurcher and Luder  (152) .  Experiments were made with a cable  stock of undis ­ closed compos ition .  The experimental technique was described and illustrated . The electrical res istance was greatly influenced by very small mechanical stresses .  After release of the  stress ,  the original res istance was recovered , but  so  slowly that complete recovery was only after days or weeks .  The dis ­ tribution of the variations  of res istance through rubber was irregular . Establishment of a uniform distribution of res istance after release of mechanical stres s  indicated full recovery .  Temperature has a great influence on these phenomena . ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "A method of producing electrically conductive moldings from plastics was described in a British patent  (153 ) .  The plastic was reduced to granules and the  individual grains  (0. 3  mm) were provided with electrically conductive coatings ,  and the powder then molded under heat and pres sure . ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Electrostatic dissipation by electrically conductive rubber was discussed by Rogers  (154) .  The publication presented photographs and tables in connection with this study . ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "BffiLIOGRAPHY ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "1 .  Trimonthly Progress Report No . 1 (period May 1 - July 31, 1954), to Squier Signal Laboratory, submitted by Polaroid Corp . , Research Dept . ,  Cambridge, Mass . 2 .   A. E .  Javitz , Elec .  Mfg . ,  55, No . 6,  85-104 ( June,  1955) . 3 .   A. Char1esby (Atomic Energy-Research Establishment, Harwell, England) , Plastics Inst .  Trans . ,  23,  133-138 (1955 ) .   \n4 .   J. H. Coleman ( to Radiation Research Corp . ), British Patent 735,847 (Aug .  31,  1955 ) . 5 .   L. C .  Whitman and A. L. Scheide1er, Trans. Amer.  Inst . Elect . Engrs .  I, 74,  232-239 (1955 ) $=$ Commun. & Electronics, No . 18 (May, 1955).   \n6.  T.  W .-nRkin, H .  M. Philofsky, and W.  C .  Divens, Trans . Amer .  Inst . Elect . Engrs .  I, 7-4--,  289-?93 (1955) $=$ Commun .  & Electronics, No .  19 (July,  1955) . 7 .   C .  Reimer, Kunststoffe,  45, No . 9, 367-374 (Sept . ,  1955)  In German.   \n8 .   Bryce Maxwell, Elec .  Eng:; 74, No .  10,  870-873 ( Oct . ,  1955).   \n9 .   Charles L. Sidway,  Insulation, 1, No . 3, 24-26 (July, 1955) .   \n10 .  Helmut Thurn, Zeitschrift fUr aiigewandte Physik, 7-, No . 1, 44-47 ( Jan . , 1955 )   In German .   \nll .  J. J.  Chapman,  L. F. Blickley, and E .  A. Szymkowiak, Trans . Amer .  Inst . Elect . Engrs .  I,  74,  343-349 (1955) $=$ Commun. & Electronics, No . 19 (July,  1955T.   \n12 .  J. J. Chapman,  L. ;I. Frisco, and J. S .  Smith, Trans . Amer .  Inst . Elect . Engrs .  I, 7-4-,-  349-356 (1955) $=$ Commun.  & Electronics, No .  19 ( July,  1955) .   \n13 .  J. H. Mason, The Proceedings of the Institution of Electrical Engineers , Part C ,  254-263 (April,  1955 ) .   \n14 .  P .  Henri-Robert, Revue Generale du Caoutchouc, 31, 724-727 (1954) .   \n15 .  E. M.  Hawley, RC:?f')rt L/T290, published by The Electrical Research Association (No date ) .   \n16 .  Dielectric Materials Ionization Study, Interim Development Report No . 2, General Electric Co . ,  Navy Dept . Bureau of Ships, Electronics Div .  (period Jan. 1, 1953 to April 30, 1953).   \n17 .  L. Teitell, S .  Berk, and A. Kravitz, Appl . Microbial . ,  3-, 75-81 (1955).   \n18 .  A. Rogel, Rubber World, 131, 647 (1955) .   \n19 .   Dielectric Materials and Applications, edited by A. R. von Hippe1, Cambridge, Mass . ,  The Technology Press of MIT; New York, John Wiley & Sons; London, Chapman & Hall (1954).   \n20 .  A. Szent-Martony, Elektrotechnika,  4-8-,- No . 3, 69-78 (March, 1955 ) In Hungarian .   \n21 .  H. Nigg,  Bull . Assoc .  Suisse Elect . ,  4-5--, No .  22, 923-928 (Oct .  30 ,  1954). In French .   \n22 .  R .  Lissmann and W. Ploch, E1ektro-Post, 8, Nos . 8-9, 221-223 (March 29, 1955 )  In German .   \n23 .  K. A. Andrianov, Elektrichestvo, No . 7, 108-113  ( July, 1955 )  In Russian .   \n24.  Anon . ,  Vanderbilt News ,  21,  No . 1, 10 (1955).   \n25 .  R. Herzog, ''Werkstoffkunde der e1ektrotechnischen Iso1ierstoffe\", 2nd Edition\"  297-314 ( c .  1954)  In German.   \n26 .  S .  Reiner,  \"Laboratory Handbook for the Rubber, Cable , and Related Industries, \" W .  Knapp Verlag, 2nd Edition, 167 pp  (1954) In German .   \n27 .  A. Dehez, Bull .  Sci . Assoc .  Ingen .  Montefiore  (A. I .M. ) ,  67, No . 6, 383-400 ( June, 1954)  In French \"   \n28 .  G. Marchesihi and G. B .  De Giorgi , R .  C .  55 Riun . Assoc . Elettrotec . Ital . ,  Bellagio, 1954, 42, No . 2, Paper 131, $8~\\tt p p$ (1955 )  In Italian .   \n29 .  E. C .  DeBaene and C .  A. Anderson, Trans . Amer .  Inst .  Elect .  Engrs .  III, 73 ,  1746-1754 (1955 ) .   \n30 .  S .  M. agin and M. M. Markosyan, Elektrichestvo, No . 3, 54-60 (1955) In Russian .   \n31 .  H .  G .  Womack and G .  W .  Kuckro, Wire and Wire Products ,  3-0, No . 7, 768-771 ( July,  1955 ) .   \n32.  L. H. Howland, R .  W .  Brown, and C o  W .  Lawson, Wire and Wire Products , 30, No . 4, 440-443 (April,  1955) .   \n33 .  Anon .-rto Monsanto Chemical Co . ) , British Patent 731,025 ( June 1, 1955 ) .   \n34 .  E .  W .  Schwartz ,  Butyl Polymer Compounding for Insulations , Paper presented at ']hird Annual Symposium on \"Technical Progress in Communication Wires and Cables , \"  Asbury Park, New Jersey (Dec .  7-9, 1954) ; Abst . ,  Rubber World, 131, $648$ (1955 ) .   \n35 .  W . C .  Smith, Butyl Insulation, Paper presented at Third Annual Symposium on \"Technical Progress in Communication Wires and Cables , \"  Asbury Park, New Jersey (Dec .  7-9, $2954$ ) ; Abst . ,  Rubber World, 13-1, 648 (1955 ) .   \n36 .  J.  C .  Carroll, A. R .  Lee, and R .  B .  McKinley, American Institute of Electrical Engineering, Paper No .  55-668 (Oct . , 1955) Advance Copy .   \n37 .  R .  A. Pfuntner, R .  S .  Norman, and B. W .  Wiiterdink, American Institute of Electrical Engineering, Paper No .  55-715 (Oct . ,1955 ) Advance Copy .   \n38 .  R .  W .  Bedwell and R .  H. Baker, E .  I .  du Pont de Nemours   Co . ,  Inc . , Elastomers Div . , Rpt .  BL-295, 4 pp  (1955 ) .   \n39 .  Anon. , Alcan et Cie .  (S .A. F. I . C . ) ,  Revue Generale du Caoutchouc ,  3-1, 976  (1954) .   \n40 . Underwriters ' Laboratories ,  Inc . , Technical Advisory Panel for Wires and Cables; Abst . ,  Rubber Age , New York, 77,  570 (1955 ) .   \n41 .   Horace C .  Hamlin, Product Eng . ,  25, No .  ll, 161-163 (1954) .   \n$42$ .  M.  E .  Conroy and L. E .  Robb, Kel-F Elastomer, Paper presented at Third Annua.l Sympos:'.um on \"Technical Progress in Communication Wires and Cables , \"  Asbury Park, New Jersey (Dec .  7-9, 1954) ; Abst . , Rubber World, 131,  647 (1955 ) .   \n43 . c .  W .  Pfeifer,  Ind _  Eng .  Chem. ,  46, No .  11,  2342-2345 (Nov . ,  1954) .   \n44 .  R .  L. Burniston, Elect .  Rev . ,  155,-r54-757 (1954) .   \n45 . L. B .  Short, Abst . ,  Rubber World,  131,  647 (1955) .   \n46. M .  G .  Noble and D. A. Lupfer, Rubber World, 131, 71-75 (1954) .   \n·7 . T .  A. Kauppi, American Aviation, 19, No .  ll,  (1955 ) .   \n48 . H .  P .  Walker and G. M .  Van Lear,  Ind. Eng .  Chem. ,  4-6, No .  ll,  2345-2348 (1954) .   \n49 .   F .  Falkenberg, Kunststoff Rundschau, 2, No . 2, 40-43 (1955 )  In German .   \n50.  M. Fuzzard, English Electric Journal,-14, No . 1, 34-41 (1955 ) .   \n51 .  R .  R. Winans , N .  Fried, and W .  Hand, Elec .  Mfg. ,  5-6, No . 1, 106-113 ( July,  1955 ) . ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "52 .  Norman A. Skew, Electronics Equipment,  24,,25 (Feb . , 1955 ) .   \n53.  C .  F. Spiers and W .  D .  Wikstrand, Product Engineering,  2-6-,  174-180 (May, 1955 ) .   \n54 .  K. Schumacher, Elektrotech . Z .  (ETZ) A,  7-6-, No ,.   11,  369-376 ( June 1, 1955) In German.   \n55 . Electrical Insulating Materials , Prepared and published by ASTM, Philadelphia, Penn. ,  660 pp  (Feb .  3,  1955 ) .   \n56 . R ,  F .  Field and Tom Hazen, ASTM Bulletin No .  206,  37  (May, 1955 ) .   \n57 . Anon . ,  Insulation,  1, No . 3, 43 (July,  1955 ) .   \n58 . G .  Mistic , Plastics-Technology,  1, 230-234 (1955 ) .   \n59 . G. P .  Mikailov,  S .  P .  Kabin, and-B .  I .  Sazhin,  Zhur .  Tekh .  Fiz . ,  2-5-, No . 4, 590-594 (1955 )  In Russian .   \n60 . Bakelite Company, Kabel-items 72, New York, 12 pp (1954) .   \n61 . Koninklijk Institut Voor de Tropen,  \"Inlichtingen en Onderzoekingen, 1954, \" 77 (1955) In English.   \n62 . Anon . , Materials and Methods ,  41, No . 2, 104-105 (March, 1955 ) .   \n63.  F. J. Bockhoff and J. A. Neumann, Modern Plastics ,  3-2-, No . 7, 103, 212-214 (March,  1955) .   \n64.  B ,  J. Lurie and J. A. Snyder, Wire and Wire Products,  3-0-, No .  12, 1497-1499, 1533-1534 (Dec . ,  1955 ) .   \n65 .  R .  C .  Boyd, Rubber Age,  76,  882-884 (1955 ) ;  Wire and Wire Products , 30,  427-429,  482 (1955) .   \n66.  E .  J. urroughs and E .  E .  Lewis , Wire and Wire Products ,  3-0-, No . 5, 557-558, 593-595 (May, 1955 ) .   \n67 .  S .  P. Foster and W .  W .  Spohn, Wire and Wire Products ,  3-0-, No .  12, 1487··::·489,  1532  (Dec . ,  1955 ) .   \n68 .  P .  A. Goodwin, Paper presented at Third Annual Symposium on \"Technical Progress in Communication Wires and Cables , \"  Asbury Park, New Jersey (Dec .  7-9, 1954) ; Abst . ,  Rubber Age, New York, 7-6-, No . 4, 584 ( Jan . ,  1955 ) .   \n69 .  G .  Palandri and U. Pelagatti, Materie Plastiche ( Italian) ,  2-1-,  569-585 (1955) .   \n70 .  British Insulated Callender ' s  Cables ,  Ltd . , Elect . Rev . , 15-7,  361-365 (1955 ) .   \n71 .  C .  W .  Bulkley, Elec ,  Mfg. ,  56, No . 5, 106-112 (Nov . ,  1955) .   \n72.  H. Henze, Siemens -Z . , 29, Nos .  3-4, 135-137 (April, 1955) .  In German .   \n73.  J. B .  DeCoste and V.  T:-Wa11der,  Ind. Eng.  Chem. ,  47,  314-322 (1955 ) .   \n74 . M. S .  Greenhalgh and S .  C .  Martens  (to General Electric Co . ) ,  U. S . Patent 2,708,173 (1955 ) .   \n75 .  E .  E .  Griesser and M. M. Suba, Rubber Age , New York, 77,  391-398 (1955 ) •   \n76 .  T .  Suto and K. \" Matsushtma, J. Inst .  Elect . Engrs .  Japan,  74,  No . 9, 1087-1089 (Sept . ,  1954)  In Japanes ,   \n77 .  E .  Kawai and T .  M3.suzawa,  J. Inst .  Elect .  Engrs .  Japan,  7-4-, No . 4, 392-395 (April, 1954)  In Japanese .   \n78 .  S.  Takahashi,  I .  Matsuzaki, Y .  Hibino, and T. Ono,  J. Inst . Elect . Engrs . Japan, 7-4-, No . 1, 41-44 ( Jan . , 1954)  In Japanese .   \n79 .  1 .  Tanaka,  J.  Inst . Elect .  Engrs .  Japan,  7-4-, No . 8, 941-948 (Aug . ,  1954) In Japanese .   \n80 .  R. H. Publew, Wire and Wire Products ,  30, No .  11, 1368-1370 (Nov . ,  1955 ) . 8L  S .  Kaganoff (to Interr.ational Telephone & Telegraph Corp . ) ,  U. S .  Patent 2:708,  215  (May 10,  1955 ) . 82 .  Anon. ,  Insulation  1, No . 2, 28-29 ( July, 1955) . 83 . Paul Ehrlich, R .  W.-Tllcker, and P .  J. Franklin, Ind.  & Eng.  Chem. , 47,  No . 2,  322-327  (Feb . ,  1955 ) . 84 .  John C. Michalelt (to Olin Mathieson Chemical Corp . ) ,  U. S .  Patent 2, 709 ,  140 (May 24,  1955) . 85 .  Anon . ,  Insulation ,  16-21 ( June ,  1955 ) . 86 . Anon. ,  Insulation ,  .Ll  (Miy, 1955) . 87 . G. Mistic ...  PlaS1;ics Technology J  356-361 ( July, 1955 ) . 88 . Anon. , Modern PlastiCS ,  33 , No . 3, 85-90,  218 (Nov . ,  1955) . 89 . K. A. Fletcher ,  Communications and Electronics (London) , g, No . 4, 44-49 (April, 1955 ) . 90 , .  R .  G. Black,  Elec .  Mfg . ,  56, No . 4, 139-142 (Oct . ,  1955 ) . 91 .  Roger White ,  E1e .  M'ig . ,  55, No . 3, 118-125 (March,  1955 ) . 92 .  W. Cummings and M. Botwick,  Ind.  & Eng .  Chern. , 4-7--, No . 7, 1317-1319 (1955 ) . 93 . R.  J. Zetie and W .  Simpson (to Metropolitan-Vickers Electrical Co . , Ltd . ) ,  British Patent 722,829 (No date ) . 94 . Anon. , Canadian Chemical Processing, 39, No . 5, 58, 60, 62 (1955 ) . 95 . H.  E .  Blanke, Elec .  Mfg -,  55, No . 5, 140-143 (May, 1955 ) . 96 . A. E .  Javitz, El.ec .  Mfg . ,  55, No. 4, 74-87 (April,  1955) . 97 . Anon. , Materials and Methods , 41, No . 3, 234-236 (March, 1955 ) . 98 . H .  E .  Myers ,  Te1e-Tech . ,  76, 77: 136 (Feb . ,  1955 ) . 99 . w .  c .  Farneth and G .  Gallousis , Power Applications and Systems , No .  17, 194.-198 (April, 1955 ) .   \n100 .  G .  De  Senarclens , Elec ,  Mfg. ,  56, No . 2, 119-125 (Aug . ,  1955 ) .   \n101 .  K. A. Fletcher, Communicationsland Electronics (London) , 2-, No . 4, 44-49 (April ,  1955 ) .   \n102 .  C .  F. Simmons and A, L. Scheideler, Trans . Amer .  Inst . Elect . Engrs . III, 74, 155-161 ( 1955 ) $=$ Power Apparatus System, No. 17 (April,  1955 ) .   \n103 .  R .  W. Finholt ,  Trans .  Amer .  Inst ,  Elect . Engrs .  II, 7-4--J 37-41 (1955 )  = Applic . and Industr . ,  No .  17 (March,  1955 ) .   \n101 .  M.  L .  Manning ,  Trans .  Amer .  Inst . Elect . Engrs .  III,  74,  91-100 (1955) $=$ Power Apparatus System, No . 17 (April, 1955 ) .   \n105 . Anon. ,  Elee .  Mfg . ,  56, N .  3 ,   252, 254 (Sept . ,  1955 ) .   \n106 . Anon . \"  Materials andMethods ,  41, No . 3, 149 (March, 1955 ) .   \n107 . Anon . ...  Plasti('s ,  20,  No .  215,  203-205 (1955 ) .   \n108 . J. J. Ondrejcin, Wire and Wire Products , 3-0--, No . 7, 776, 778, 780, 815, 8 1 6  ,I  JUly .•  1955 ,\\  .   \n109 . G .  Mistic, Plastics Technology, 1, No . 7, 427-432 (Aug . ,  1955 ) .   \n110 . Merritt A .  Rudner, Elec .  Mfg . ,  55, No . 2, 80-87,  326 (Feb . ,  1955 ) .   \n111 .  E .  J. Flynn and G .  W .  Young (to-aeneral Electric Co . ) ,  U. S .  Patent 2,700, 212 (Jan. 25 ,  1955 ) .   \n112 . Jules A .  .Jupa and M. W.  Kellogg, Wire and Wire Products , 30, No . 7, 772-775,  814-816 ( .July, 1955) .   \n113 .  Anon .  (to General Electric Co. ) ,  British Patent 723,072 (No date ) .   \n114 .  o .  B .  Lowe    Fifth Quarterly Report, Revere Corp .  of America, Wallingford,  Conn ,  (Oct .  1, 1954 - Jan.  1, 1955 ) .   \n115 .  Stanley O .  Dorst (to Sprague Electric Co . ) , U. S . Patent 2,707.,693 (May 3, 1955) .   \n116 . Aminco Laboratory News, 12, No . 5 (Sept . ,  1955) .   \n117 . Anon . ,  E1ec .  Mfg . ,  55, N  5, 8 (May,  1955) .   \n118 . L .  G .  Brazier (to British Insulated Callender ' s Cables, Ltd. ), British Patent 732,973 ( July 6, 1955) .   \n119 . E .  V. Ka1inin, E1ektrichestvo, No . 5, 54-59 (1955 ) In Russian.   \n120 .  M. Naito, S .  Shima,  and H. Sato,  J.  Inst . Elect .  Engrs.  .  Japan,  74, No . 1, 26-30 ( Jan. , 1954)  In Japanese .   \n121 . Y. Ueoka, J .  Inst . Elect . Engrs .  Japan,  74, No . 5,  589-596 (May, 1954) In Japanese .   \n122 . E .  G. Linden and Pierre Townsend, E1ec . Eng . ,  7-4-,- No .  11, 990-992 (Nov . ,  1955 ) .   \n123 .  J. E .  Sensi and P ,  J. Franklin, E1ec . Mfg . ,  5-6-,- No . 3, 166-169 (Sept . ,  1955 ) .   \n124 . Fred Gehrke, Elec . Mfg. ,  56, No .  2, 133 134 ( 1955) .   \n125 . A .   Imhof, Scientia Electrica, 2, No . 1, 37-45 (April, 1955 )   In German .   \n1.26 .  Anon . ,  Elec .  Mfg. ,  55,  No . 5, g (May,  1955) .   \n127 .  F .  A .  Sattler, TranS. Amer .  Inst .  Elect .  Engrs .  I, 74, 70-73 (1955)  = Commun . & Electronics, No .  17 (March, 1955 ) .   \n128 .  C .  G .  Currin and J. F .  Dexter, Trans . Amer .  Inst .  Elect .  Engrs .  I, 74, 227-232 (1955 ) $=$ Commun.  & Electronics, No .  18 (May, 1955 ) .   \n129 . Anon.;-Product Engineering, 26, No . 8, 5 (Aug . ,  1955 ) .   \n130 . Anon. ,  U. S .  Patent 2,7C7,70 (No date ) .   \n131 . H. Latour and J. Gzy1ewski, Przeglad elektrotech . ,  3-1-,- Nos .  2-3, 172-177 (1955)  In Polish.   \n132 . Jack T .  Wilson, Insulation, 1, No . 3, 6-14 ( July,  1955 ) .   \n133 . R .  W .  Finholt, Elec .  Eng . ,  7 ,  No . 9, 797 (Sept . ,  1955 ) .   \n134 , W. Schneider, Rubber Age, New York,  77, 702-704 (1955 ) .   \n135 . Ya .  L. Shugal and S .  I .  Smirnova, Elektrichestvo, No . 5, 59-61 (1955 ) In Russian.   \n136 . G .  Urban and E .  Kiss, E1ektrotechnika, 4-8-,- Nos .  1-2,  44-51 ( Jan. -Feb . , 1955 ) •  In Hungarian.   \n137 . Anon . ,  Materials and Methods, 41, No . 3, 226-233 (March, 1955 ) .   \n138. N. A .  Skow,  E1ec .  Eng . ,  74, No:-12, 1092-1093  (Dec . ,  1955 ) .   \n139 . H. L. Shortt, Elec .  Mfg .;-55, No . 6, 108-115 ( June,  1955 ) .   \n140 . C .  C .  Barnes, Mechanical World, Monograph 67, London, 40 pp (1954) .   \n141 . B .  Sa1va(.;:: ;.  Electrical Journal,  155,  1033 (1955 ) .   \n142 . S .  J. Rosch, American Inst . Elec . Eng . Paper 55-678 (Oct \"  1955 ) Advance Copy.   \n143 . L .  G. B azier, Engineering Journal, Canada ,  38, 933-942, 950 (1955 ) .   \n144 . J. N. Dean,  J. Roy.  Soc . Arts, 103, 151-167 fl955 ) .   \n145 . Submarine Cables Ltd. ,  Electrical Journal, 155, 1692 (1955) .   \n146 . M. J. Kelly, G .  Radley,  G. W .  Gilman, and R .  J. Halsey, Proc .  I .E.E., 102B, 117-130, 130-138 (1955 ) .   \n147 .  F .  Leichsenring, Siemens -Z . ,  2-9--, Nos .  3-4, 129-132 (April, 1955 ) In German .   \n148 .  L. F:? lkenstein, Electrical World,  144,  No . 5, 16-18 (Aug .  1, 1955) .   \n149 .  Anon . ,  U. S .  Patent 2,708,215 (No date ) .   \n150 .  Ross A .  Pringle and .Andrew D .  Varenelli .. Wire and Wire Products, 30, No . 6, 678-680, 712, 713 ( June,  1955 ) .   \n151 .  N .   C .  H .   Humphreys ,  Proc .  I . R . I . ,  2,  163 -172  (1955) .   \n152.  M. Zurcher and J. Luder ,  Bull.  Assoc .  Suisse Elect . ,  45,  57-59 (1954) •   \n153 .  Anon .  (to N .  V .  Philips '  Gloeilampenfabrieken,  Netherlands ) , British Patent 723, 598 (No date ) .   \n154.  Paul M. Rogers ,  U .  S .  Arsenal,  Rock Island,  Illinois ,  PB 111414, Office of Technical Services ,  U. S .  Dept .  of Commerce ,  29 pp ( M:Lrch ,  1954) . ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 24
+    }
+]

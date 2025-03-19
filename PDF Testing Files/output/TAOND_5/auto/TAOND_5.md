@@ -1,0 +1,148 @@
+# ELECTROCHEMISTRY  
+
+# Active sites of nitrogen-doped carbon materials for oxygen reduction reaction clarified using model catalysts  
+
+Donghui Guo,1 Riku Shibuya,2 Chisato Akiba,2 Shunsuke Saji,2 Takahiro Kondo,1\* Junji Nakamura1\*  
+
+Nitrogen (N)–doped carbon materials exhibit high electrocatalytic activity for the oxygen reduction reaction (ORR), which is essential for several renewable energy systems. However, the ORR active site (or sites) is unclear, which retards further developments of high-performance catalysts. Here, we characterized the ORR active site by using newly designed graphite (highly oriented pyrolitic graphite) model catalysts with well-defined $\pi$ conjugation and well-controlled doping of N species. The ORR active site is created by pyridinic N. Carbon dioxide adsorption experiments indicated that pyridinic N also creates Lewis basic sites. The specific activities per pyridinic N in the HOPG model catalysts are comparable with those of N-doped graphene powder catalysts. Thus, the ORR active sites in N-doped carbon materials are carbon atoms with Lewis basicity next to pyridinic N.  
+
+he oxygen reduction reaction (ORR) is a key reaction for fuel cells and other renewable energy technologies such as metalair batteries and dye-sensitized solar cells. Nitrogen-doped carbon materials as non  
+metal catalysts exhibit high electrocatalytic ac  
+tivity for the ORR (1, 2) and high durability,   
+even under acidic conditions (3). Nitrogen-doped   
+carbon materials are thus among the most prom  
+ising candidates as alternatives to high-cost Pt   
+catalysts for fuel cell applications. To be devel  
+oped as high-performance catalysts, they should   
+be engineered to contain a high concentration  
+
+of active sites without inactive components. Hence, it is imperative to identify the active sites of nitrogen-doped carbon materials for the ORR, albeit still under debate. Currently, the debate focuses on whether the active sites are created by pyridinic N (pyri-N, N bonded to two carbon atoms) or graphitic N (grap-N, N bonded to three carbon atoms, also called substituted N or quaternary N) (4–13).  
+
+The controversy can be ascribed to two reasons. One is the mixing of different types of nitrogen species in the carbon materials, which is inevitable in the doping processes (e.g., by annealing under $\mathrm{NH_{3}}$ atmosphere). The other lies in the inhomogeneities associated with the morphology and the graphitization level of the evaluated samples, which leads to inhomogeneous sizes of the $\pi$ -conjugated system. Indeed, the size of nitrogen-doped graphene quantum dots has been reported to affect the ORR performance $(I4)$ . Thus, it is difficult to determine which type of nitrogen creates the active site for the ORR by comparing samples subjected to treatment or pyrolysis at different temperatures because the size of the $\pi$ -conjugated system is also dependent on the annealing temperature.  
+
+To determine the active site conclusively, we develop four types of model catalysts with well-defined $\pi$ conjugation based on highly oriented pyrolytic graphite (HOPG): (i) pyridinic N-dominated HOPG (pyri-HOPG); (ii) graphitic N-dominated HOPG (grap-HOPG), and for comparison, (iii) edges patterned on the surface without N (edge-HOPG); and (iv) clean-HOPG (see supplementary methods and fig. S1). The active sites and adsorption properties of the nitrogendoped carbon surfaces are examined by ORR, post-ORR x-ray photoelectron spectroscopy (XPS), and $\mathrm{{CO}_{2}}$ temperature programmed desorption (TPD) measurements.  
+
+Of the four types of prepared HOPG model catalysts,preparationofthepyridinicN–dominated HOPG model catalyst is the most challenging because pyridinic N atoms are preferentially located at the edges of graphite. We thus designed an edge-patterned surface by ${\mathrm{Ar}}^{+}$ etching through a mask. Figure 1 (A to D) shows surface morphological characterization of a typical edge-patterned model catalyst. The ordered uniform rectangular groove structures were distributed over the surface in a wide range. The atomic force microscopy (AFM) image presented in Fig. 1B shows dark regions corresponding to the grooves etched through the slits of the mask by ion beam and bright regions that correspond to nonetched surfaces. The surface of the bright region is intact and is basically flat. The profile of the blue line in Fig. 1B shows that the depth of the grooves is about $1200\pm$ $80\mathrm{nm}$ for this sample (Fig. 1D), which could be varied from about $100\mathrm{nm}$ to more than $2\upmu\mathrm{m}$ by manipulating the etching energy and duration.  
+
+Figure 1E shows XPS N 1s spectra for cleanHOPG, edge-HOPG, grap-HOPG, and pyri-HOPG (C 1s and survey spectra are shown in fig. S2). The nondoped samples (clean-HOPG and edge-HOPG)  
+
+Table 1. Comparison of specific activity per pyridinic N of HOPG model catalysts (in Fig. 2) and N-GNS powder catalysts (in Fig. 4).   
+
+
+<html><body><table><tr><td>Sample</td><td>Nitrogen concentration (at. %)*</td><td>Pyridinic N concentration (at. %)*</td><td>Ijlat0.5V (mA cm-2)+</td><td>Specificactivityper pyridinicN at O.5V(e-s-pyri-N-1)</td></tr><tr><td>ModelHOPG-4</td><td>0.60</td><td>0.57</td><td>0.00041</td><td>0.12</td></tr><tr><td>ModelHOPG-5</td><td>4.9</td><td>2.2</td><td>0.00090</td><td>0.066</td></tr><tr><td>ModeIHOPG-6</td><td>5.5</td><td>3.1</td><td>0.0016</td><td>0.082</td></tr><tr><td>ModelHOPG-7</td><td>13</td><td>3.9</td><td>0.0026</td><td>0.11</td></tr><tr><td>ModeIHOPG-8</td><td>11</td><td>6.5</td><td>0.0055</td><td>0.14</td></tr><tr><td>N-GNS-1</td><td>1.7</td><td>0.72</td><td>0.085</td><td>0.07</td></tr><tr><td>N-GNS-2</td><td>2.4</td><td>1.9</td><td>0.37</td><td>0.11</td></tr><tr><td>N-GNS-3</td><td>8.1</td><td>6.3</td><td>1.4</td><td>0.13</td></tr></table></body></html>  
+
+\*Nitrogen concentration evaluated by XPS. $\mathsf{\Gamma}+\mathsf{O R R}$ current density obtained from current divided by geometric area of electrode surface. ORR current density $(|j|)$ , i.e., number of electrons converted by oxygen reduction per pyridinic N per second $({\boldsymbol{\mathrm{e}}}^{-}{\boldsymbol{\mathrm{s}}}^{-1}$ pyri-N), as follows:  
+
+Activity per pyridinic $\Nu=$ number of electrons per sec per cm2of electrode surface number of pyridinic N per cm2 of electrode surface  
+
+are indeed free of N, whereas N 1s peaks are observed for grap-HOPG and pyri-HOPG. The N concentrations of grap-HOPG and pyri-HOPG are 0.73 atomic $\%$ $82\%$ for grap-N and $5\%$ for pyri-N) and 0.60 atomic $\%$ $95\%$ for pyri-N and $5\%$ for grap-N), respectively, as estimated by the analysis of the peak areas for each element $(\mathrm{N},\mathrm{C})$ by considering the atomic sensitivity of XPS. The N 1s spectra were analyzed by least-squares fitting analysis, which includes the components of pyridinic $\mathrm{\V}\left(398.5\mathrm{eV}\right)$ , graphitic N (401.1 eV), pyrrolic $\mathrm{~N~}(400.1\:\mathrm{eV})$ , and oxidic N (403.2 eV) (15–18).  
+
+The catalytic performance was measured by cyclic voltammetry (CV) in acidic electrolyte (0.1 M $\mathrm{H_{2}S O_{4}},$ ) (electrode preparation is shown in fig. S3).  
+
+Figure 1F shows the ORR curves obtained under oxygen-saturated conditions with the subtraction of data under nitrogen-saturated conditions as the background, in which the currents are divided by the geometric surface areas of electrodes (the same as the exposed catalyst surface areas) as described in the experimental method of the supplementary materials. Figure 1F shows that the pyri-HOPG model catalyst displays high activity at high voltages, compared to the very low ORR activities of the N-free model catalysts. The pyriHOPG sample with lower N concentration (N: 0.60 at. $\%$ ) is much more active than the grapHOPG sample with higher N concentration (N: 0.73 at. $\%$ ). Since the pyri-HOPG sample is nearly free of graphitic N, the ORR results indicate that pyridinic N rather than graphitic N reduces the ORR overpotential and creates the active site. The activity of the grap-HOPG sample could also be ascribed to the presence of pyridinic N as a minor component (0.04 at. $\%$ ).  
+
+![](images/a335de6c3fdc5a839f035bb78242f508caf5a4f6151b2a80be7cfcf6b2be881a.jpg)  
+Fig. 1. Structural and elemental characterization of four types of N-HOPG model catalysts and their ORR performance. (A) Optical image of patterned edge- $\cdot N^{+}$ -HOPG. (B) The AFM image obtained for the region indicated by the yellow rectangle in (A). (C) Three-dimensional representation of (B). (D) Line profile of the AFM image obtained along the blue line in (B). (E) N 1s XPS spectra of model catalysts. (F) ORR results for model catalysts corresponding to (E). Nitrogen contents of the model catalysts are shown as the inset in (F).  
+
+The dependence of the ORR activity of the catalyst on the concentration of pyridinic N was investigated and is presented in Fig. 2. Patterned HOPG model catalysts with higher nitrogen concentrations (edge- $\cdot N^{+}$ -HOPG) were prepared by $\mathrm{N}^{+}$ ion beam etching through a Ni mask, which contain mixtures of different types of nitrogen (fig. S4 for N 1s and fig. S5 for survey and C 1s spectra). The ORR activities differed because of the different nitrogen-doping conditions (Fig. 2A). The current densities at a specific potential [potential versus reversible hydrogen electrode (RHE)] for each ORR were extracted and plotted versus the corresponding concentrations of pyridinic N and graphitic N. Figure 2B illustrates the linear relationship between the current densities and concentration of pyridinic N at each investigated potential, independent of the preparation method, indicating that the ORR activity is determined solely by the pyridinic N concentration. This linear dependence also suggests that the inhomogeneities in the graphitization and size of the $\pi$ -conjugation system in the samples were overcome successfully in the HOPG model catalysts by applying the same annealing temperature of 973 K. In contrast, there is no correlation between the current density and the concentration of graphitic N (fig. S6). As a result, the onset potential (potential versus RHE at current density of $1\upmu\mathrm{Acm}^{-2},$ ) increases with increasing concentration of pyridinic N (Fig. 2C).  
+
+We further investigated the intermediates of the ORR by ex situ post-ORR XPS measurements of the HOPG model, which reflects the steadystate surface of the N-HOPG model catalyst under ORR and provides mechanistic information about the active sites. Figure 3A illustrates a significant change in the N 1s peak (fig. S7 for C 1s) after the ORR half-cell measurement in acidic conditions, in which the concentration of pyridinic N $_{(398.5~\mathrm{eV})}$ decreased from 54 to $38\%$ , and the concentration of the component corresponding to the $400.1{\mathrm{eV}}$ peak (either pyrrolic N or pyridonic N) increased from 11 to $29\%$ , whereas the sum of the pyridinic N and pyrrolic/pyridonic N components remained largely constant (from 65 to $67\%$ ). By contrast, an N-HOPG sample after immersion in 0.1 M $\mathrm{H_{2}S O_{4}}$ solution without the ORR scanning exhibited a negligible change in N 1s spectrum (fig. S8). The difference in the composition of nitrogen species before and after the ORR suggests that the carbon atoms next to pyridinic N react with OH species with consequent transformation of the pyridinic N to pyridonic N, as shown in Fig. 3B, suggesting that the active sites are the carbon atoms next to the pyridinic N rather than pyridinic N themselves.  
+
+Furthermore, we experimentally evaluated the relationship between the basicity and the activity of the HOPG model catalysts. Recently reported density functional theoretical (DFT) calculations suggested that carbon nanostructures containing pyridinic N possess Lewis basicity (19). Based on local scanning tunneling microscopy/spectroscopy (STM-STS) measurements combined with DFT calculations, it has also been reported that carbon atoms adjacent to pyridinic N possess a localized density of states in the occupied region near the Fermi level (20). This suggests that the carbon atoms can behave as Lewis bases owing to the possibility of electron pair donation. We thus examined the adsorption of $\mathrm{{CO}_{2}}$ as a probe of the Lewis base site. Figure 3C shows the profiles for TPD of $\mathrm{{CO}_{2}}$ from the HOPG model catalysts on which $\mathrm{{CO}_{2}}$ was adsorbed at room temperature (fig. S9 shows N 1s XPS spectra). It is found that acidic $\mathrm{CO_{2}}$ molecule is adsorbed only on the ORRactive pyri-HOPG catalyst, which proves that the Lewis basic site is created by pyridinic N on the HOPG surface. It is generally known that oxygen molecules can be adsorbed on Lewis base sites (21). Because $\mathrm{O}_{2}$ adsorption is the initial step of the ORR, the Lewis base site created by pyridinic N is thus suggested to be the active site for ORR.  
+
+To compare the HOPG model catalysts with powder catalysts, we prepared nitrogen-doped graphene nanosheets (N-GNS) and measured their ORR activities by the rotating disc method in 0.1 M $\mathrm{H_{2}S O_{4}}$ . Here, the N-GNS catalysts were prepared by the reaction of GNS with $\mathrm{NH_{3}}$ at  
+
+973 K, which is the same temperature applied in the preparation of the HOPG model catalysts. Figure 4A shows the N 1s XPS profiles of the prepared N-GNS powder catalysts. The powder catalysts have high percentages of pyridinic N, and the pyridinic N concentration increases from N-GNS-1 (0.7 at. $\%$ ) to N-GNS-2 (1.9 at. $\%$ ) to N-GNS-3 (6.3 at. $\%$ ), whereas the graphitic N concentrations are as low as 0.4 to 0.8 at. $\%$ . Figure 4B shows the ORR performances of the N-GNS powder catalysts, in which the currents are divided by the geometric electrode surface area $(0.283~\mathrm{cm}^{2})$ ), with a loading amount of $0.02~\mathrm{mg}$ . The ORR activity increases with increasing nitrogen concentration; e.g., the onset potential increases from  
+
+![](images/0dacc97abf4b08c7601c7fe7cb3f97391d35f12df9ca05e8f187a5da7990a43b.jpg)  
+Fig. 2. Catalytic performance of N-HOPG model catalysts. (A) ORR results obtained for the model catalysts with different N concentrations. (B) Correlation between current densities of ORR at 0.2, 0.3, and $0.4\:\ V$ versus RHE and the pyridinic N concentrations. (C) Correlation between onset potentials at $1\upmu\mathsf{A}\mathsf{c m}^{-2}$ and the pyridinic N concentrations. Different markers indicate different sample preparation methods. Nitrogen contents of the HOPG model catalysts are shown as the inset in (A).   
+Fig. 3. Post-ORR XPS analysis and $\mathsf{c o}_{2^{-1}}\mathsf{T P D}$ of the N-HOPG model catalysts. (A) N 1s XPS spectra of the N-HOPG model catalyst before and after ORR, respectively. (B) Schematic images of the formation of pyridonic N by the attachment of OH to the carbon atom next to pyridinic N. (C) ${\mathrm{CO}}_{2}$ -TPD results for the HOPG model catalysts.  
+
+![](images/4ab81909bbb0760bfbc6365877ec3170b806aa205493a1703416c5d3cef40c12.jpg)  
+
+Fig. 5. Schematic pathway for oxygen reduction reaction on nitrogen-doped carbon materials.  
+
+0.77 V for N-GNS-1 to $0.91\mathrm{V}$ for N-GNS-3. The ORR activity was further examined in terms of the current densities at different potentials (0.5, 0.6, and $0.7\:\mathrm{V}$ versus RHE). The correlation between the ORR activities and the concentration of nitrogen species was examined for pyridinic N (Fig. 4C) and graphitic N (fig. S10). Linear relationships between the ORR activities at three different potentials and the concentration of pyridinic N were obtained (Fig. 4C), consistent with the linear relationships for the HOPG model catalysts (Fig. 2). It is thus confirmed that pyridinic N creates the active site for ORR in the N-GNS powder catalysts.  
+
+We further compared the ORR specific activities of the N-HOPG model catalysts (in Fig. 2) and the N-GNS powder catalysts (in Fig. 4). The activities were evaluated by using the current (Fig. 5). As the Lewis base site is created by pyridinic N, the oxygen molecule is first adsorbed at the carbon atom next to the pyridinic N followed by protonation of the adsorbed $\mathrm{O}_{2}$ . Two pathways are then possible: One is the four-electron mechanism taking place at a single site, and the other is the $2+2\cdot$ –electron mechanism, which does not always take place at a single site. In the four-electron mechanism, the other two protons attach to the two oxygen atoms, leading to breakage of the O-OH bond and formation of OH species (“D” in Fig. 5) as observed in post-ORR  
+
+XPS (Fig. 3). The additional proton then reacts with the adsorbed OH to form $\mathrm{H_{2}O}$ $\mathrm{{^{66}}}$ in Fig. 5). In the $2+2$ –electron pathway, $\mathrm{H_{2}O_{2}}$ is formed by reaction of the adsorbed OOH species with another proton ( $^{6}\mathrm{F}^{3}$ in Fig. 5), followed by readsorption of $\mathrm{H_{2}O_{2}}$ and its reduction by two protons to generate $\mathrm{H_{2}O}$ . The OH species detected in the post-ORR XPS measurement may arise from the four-electron mechanism, but it is also possible that the OH species next to the pyridinic N may arise from the reaction with $\mathrm{H_{2}O_{2}}$ in the $2+2$ –electron mechanism. In either pathway, the carbon atoms next to pyridinic N with Lewis basicity play an important role as the active sites at which oxygen molecules are adsorbed as the initial step of the ORR.  
+
+In summary, we have demonstrated that pyridinic N in nitrogen-doped graphitic carbons creates the active sites for ORR under acidic conditions, based on studies of HOPG model catalysts and N-GNS powder catalysts. Carbon atoms next to pyridinic N are suggested to be the active sites with Lewis basicity at which $\mathrm{O_{2}}$ molecules are adsorbed as the initial step of the ORR.  
+
+# REFERENCES AND NOTES  
+
+1. K. Gong, F. Du, Z. Xia, M. Durstock, L. Dai, Science 323, 760–764 (2009).   
+2. L. Dai, Y. Xue, L. Qu, H.-J. Choi, J.-B. Baek, Chem. Rev. 115, 4823–4892 (2015).   
+3. J. Shui, M. Wang, F. Du, L. Dai, Sci. Adv. 1, e1400129 (2015).   
+4. H.-W. Liang, X. Zhuang, S. Brüller, X. Feng, K. Müllen, Nat. Commun. 5, 4973 (2014).   
+5. L. Qu, Y. Liu, J.-B. Baek, L. Dai, ACS Nano 4, 1321–1326 (2010).   
+6. C. V. Rao, C. R. Cabrera, Y. Ishikawa, J. Phys. Chem. Lett. 1, 2622–2627 (2010).   
+7. T. Xing et al., ACS Nano 8, 6856–6862 (2014).   
+8. R. Liu, D. Wu, X. Feng, K. Müllen, Angew. Chem. 49, 2565–2569 (2010).   
+9. H. Niwa et al., J. Power Sources 187, 93–97 (2009).   
+10. H. Kim, K. Lee, S. I. Woo, Y. Jung, Phys. Chem. Chem. Phys. 13, 17505–17510 (2011).   
+11. N. P. Subramanian et al., J. Power Sources 188, 38–44 (2009).   
+12. L. Lai et al., Energy Environ. Sci. 5, 7936–7942 (2012).   
+13. W. Ding et al., Angew. Chem. Int. Ed. 52, 11755–11759 (2013).   
+14. Q. Li, S. Zhang, L. Dai, L. S. Li, J. Am. Chem. Soc. 134, 18932–18935 (2012).   
+15. S. Maldonado, S. Morin, K. J. Stevenson, Carbon 44, 1429–1437 (2006).   
+16. E. Raymundo-Piñero et al., Carbon 40, 597–608 (2002).   
+17. J. R. Pels, F. Kapteijn, J. A. Moulijn, Q. Zhu, K. M. Thomas, Carbon 33, 1641–1653 (1995).   
+18. I. Kusunoki et al., Surf. Sci. 492, 315–328 (2001).   
+19. B. Li, X. Sun, D. Su, Phys. Chem. Chem. Phys. 17, 6691–6694 (2015).   
+20. T. Kondo et al., Phys. Rev. B 86, 035436 (2012).   
+21. H. Metiu, S. Chrétien, Z. Hu, B. Li, X. Sun, J. Phys. Chem. C 116, 10439–10450 (2012).  
+
+# ACKNOWLEDGMENTS  
+
+This work was financially supported by the New Energy and Industrial Technology Development Organization and partially supported by the Japan Science and Technology Agency– Precursory Research for Embryonic Science and Technology (JST-PRESTO) program, “New Materials Science and Element Strategy.” We thank T. Kashiwagi and K. Kadowaki for support with sample etching and AFM measurements. The advice of T. Okajima and T. Ohsaka concerning the electrode preparation methods for the HOPG model catalysts is gratefully acknowledged. We thank X. Hao for assistance with sample preparation by photolithography. We thank all staff of BL07LSU of Spring-8 for assistance with surface analysis of the HOPG model catalysts. J.N. supervised the project. D.G. and C.A. prepared the model catalysts and performed XPS, AFM, and ORR measurements. R.S. performed $\mathrm{CO}_{2}$ -TPD analysis and S.S. prepared the N-GNS powder catalysts and  
+
+performed ORR measurements. All authors discussed the results and D.G., T.K., and J.N. wrote the paper. The authors declare no competing financial interests.  
+
+SUPPLEMENTARY MATERIALS www.sciencemag.org/content/351/6271/361/suppl/DC1 Materials and Methods  
+
+# MOLECULAR FRAMEWORKS  
+
+# Weaving of organic threads into a crystalline covalent organic framework  
+
+Yuzhong ${\mathbf{Liu}},^{\mathbf{1}\ast}$ Yanhang $\mathbf{M_{\lambda}}\mathbf{a_{\lambda}}_{,}^{\mathbf{2}_{\ast}}$ Yingbo Zhao,1\* Xixi Sun,1 Felipe Gándara,3   
+Hiroyasu Furukawa,1 Zheng Liu,4 Hanyu Zhu,5 Chenhui Zhu,6 Kazutomo Suenaga,   
+Peter Oleynikov,2 Ahmad S. Alshammari,7 Xiang Zhang,5,8   
+Osamu Terasaki, $,^{2,9}\dag$ Omar M. Yaghi1,7†  
+
+A three-dimensional covalent organic framework (COF-505) constructed from helical organic threads, designed to be mutually weaving at regular intervals, has been synthesized by imine condensation reactions of aldehyde functionalized copper(I)-bisphenanthroline tetrafluoroborate, $\mathsf{C u}(\mathsf{P D B})_{2}(\mathsf{B F}_{4})$ , and benzidine (BZ). The copper centers are topologically independent of the weaving within the COF structure and serve as templates for bringing the threads into a woven pattern rather than the more commonly observed parallel arrangement. The copper(I) ions can be reversibly removed and added without loss of the COF structure, for which a tenfold increase in elasticity accompanies its demetalation. The threads in COF-505 have many degrees of freedom for enormous deviations to take place between them, throughout the material, without undoing the weaving of the overall structure.  
+
+eaving, the mutual interlacing of long threads, is one of the oldest and most enduring methods of making fabric, but this important design concept has yet to be emulated in extended chemical struc  
+tures. Learning how to link molecular building   
+units by strong bonds through reticular synthesis   
+$(I)$ into weaving forms would be a boon to making   
+materials with exceptional mechanical properties   
+and dynamics. To successfully design weaving of   
+chains into two- and three-dimensional (2D and  
+
+3D) chemical structures (Fig. 1, A and B), long threads of covalently linked molecules (i.e., 1D units) must be able to cross at regular intervals. It would also be desirable if such crossings serve as points of registry, so that the threads can have many degrees of freedom to move away from and back to such points without collapsing the overall structure. Structures have been made by weaving metal-organic chains (2), but designing well-defined materials and assembling their structures by weaving is challenging, and weaving in crystalline inorganic or covalent organic extended structures is undeveloped.  
+
+We report on a general strategy and its implementation for the designed synthesis of a woven material [covalent organic framework-505 (COF505)]. This COF has helical organic threads interlacing to make a weaving crystal structure with the basic topology of Fig. 1B, and we show that this material has an unusual behavior in elasticity. Although terms such as interweaving (3), polycatenated (2), and interpenetrating (4–6) have been used to describe interlocking of 2D and 3D extended objects (Fig. 1, C and D), most commonly found in MOFs, we reserve the term “weaving” to describe exclusively the interlacing of 1D units to make 2D and 3D structures (Fig. 1, A and B). Weaving differs from the commonly observed interpenetrating and polycatenated frameworks because the latter are topologically interlocking  
+
+# Science  
+
+# Active sites of nitrogen-doped carbon materials for oxygen reduction reaction clarified using model catalysts  
+
+Donghui Guo, Riku Shibuya, Chisato Akiba, Shunsuke Saji, Takahiro Kondo and Junji Nakamura  
+
+Science 351 (6271), 361-365. DOI: 10.1126/science.aad0832  
+
+# The right kind of dopant  
+
+The oxygen reduction reaction is an important step in fuel cells and other electrochemical processes but is still largely dependent on precious metal-containing catalysts. Recently explored alternatives include carbon materials that are doped with different, preferably non-precious metal, atoms. Guo et al. studied model graphite catalysts to try to understand the role of nitrogen doping and to elucidate the active catalytic sites. A nitrogen atom bound to two carbons formed an active catalyst site with an activity rivaling that of N-doped graphene catalysts.  
+
+Science, this issue p. 361  
+
+ARTICLE TOOLS  
+
+REFERENCES  
+
+PERMISSIONS  
+
+Use of this article is subject to the Terms of Service  

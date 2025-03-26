@@ -1,0 +1,392 @@
+ <doctag><page_header><loc_129><loc_24><loc_371><loc_32>RECENT ADVANCES IN GREEN INDUSTRIAL NETWORKING</page_header>
+<section_header_level_1><loc_58><loc_46><loc_446><loc_81>Toward Dynamic Energy Management for Green Manufacturing Systems</section_header_level_1>
+<text><loc_203><loc_95><loc_299><loc_102>Eunsung Oh and Sung-Yong Son</text>
+<section_header_level_1><loc_185><loc_123><loc_223><loc_130>ABSTRACT</section_header_level_1>
+<text><loc_30><loc_122><loc_114><loc_266>The authors discuss how dynamic energy management in manufacturing systems can not only solve the current technical issues in manufacturing, but can also aid in the integration of additional energy equipment into energy systems. They quantitatively estimate these potential savings through analysis of a simple manufacturing process. They also address a future research direction, wherein advanced manufacturing systems such as Industry 4.0 are deployed.</text>
+<text><loc_129><loc_136><loc_286><loc_244>The manufacturing industry is responsible for significant energy consumption, particularly in the form of electricity. From the perspective of the energy management system in manufacturing, reducing this consumption is not only a matter of exhibiting environmental responsibility, but also of substantially reducing the production cost. We discuss how dynamic energy management in manufacturing systems can not only solve the current technical issues in manufacturing, but can also aid in the integration of additional energy equipment into energy systems. We quantify, but can also aid in the integration of additional energy equipment into energy systems. We quantitatively estimate these potential savings through analysis of a simple manufacturing process. We also address a future research direction, wherein advanced manufacturing systems such as Industry 4.0 are deployed.</text>
+<section_header_level_1><loc_185><loc_249><loc_234><loc_256>INTRODUCTION</section_header_level_1>
+<text><loc_129><loc_258><loc_286><loc_346>For the maintenance of human life and sustainable economic progress, energy is crucial. The increase in energy demand is raising awareness about the potential harmful effects of CO$_{2}$ emissions on the environment. There is growing consensus on the need to develop efficient and low-carbon technologies in all sectors, including energy supply, energy transformation, and energy consuming sectors such as buildings, industry, transport, and agriculture. It is important to note that the world's annual industrial energy consumption is high to the total energy consumption BTU (26 quadrillion BTU) including electricity losses (in 2011, which is 51 percent of the total energy consumption [1]).</text>
+<text><loc_129><loc_346><loc_286><loc_454>Although industry is a high consumer of energy, the effect of energy consumption has been less interest, especially in manufacturing. There are two reasons for this; first, the energy consumed during production is underestimated. It is estimated that the energy cost amounts to about 4-10 percent of the value added in the manufacturing sector [2]. The other reason is the difficulty of energy management. It is very hard to store and immediately change the state of energy. Furthermore, different characteristics of variable energy sources make energy control a complex problem. Consequently, manufacturers have focused on reliable and efficient production rather than increasing energy efficiency. However, the additional energy costs related to institutional regulations for achieving the Kyoto Protocol goals (e.g.,</text>
+<page_footer><loc_163><loc_461><loc_382><loc_466>Eunsung Oh is with Hanseo University; Sung-Yong Son is with Gachon University.</page_footer>
+<page_footer><loc_328><loc_484><loc_464><loc_489>IEEE Communications Magazine • October 2016</page_footer>
+<text><loc_295><loc_122><loc_464><loc_149>carbon credit quotes about carbon dioxide and greenhouse gases (GHGs) keep increasing [3]. Therefore, the discussion on energy efficiency in manufacturing cannot be put off indefinitely.</text>
+<text><loc_295><loc_149><loc_464><loc_207>The energy consumption in manufacturing systems consists of two parts: "production" and "utility." Consumption attributed to production is directly related to the processes and operations involved in making the actual goods using manufacturing facilities. Utility consumption includes not only consumption due to the infrastructure that indirectly supports the production process, such as electricity, heat, and air.</text>
+<text><loc_295><loc_207><loc_464><loc_372>The energy efficiency for production is correlated with productivity improvement. Improving the utilization rate of production equipment reduces unnecessary energy consumption during standby time, while reducing the task time also enhances the energy efficiency by decreasing the energy usage while producing the same amount of goods. Most of the studies that have considered the topic of energy efficiency have focused on energy per productive output ratio in the production system [4]. Moreover, through the development of intelligent manufacturing systems, known as Industry 4.0 or Smart Factory [5], coordinated by information networks, the research on increasing production efficiency has accelerated. This is because the purpose of the manufacturing system is to produce excellent value-added products. Industry 4.0, which is recently trending in the industry, presents a smart factory that supports more intelligent and agile manufacturing to meet the more rapid changes in consumers' requirements. Energy efficiency is one of the important objectives of the smart factory in view of cost effectiveness as well as social requirements. From this viewpoint, green manufacturing is also an important cost of organizing a smart factory.</text>
+<text><loc_295><loc_372><loc_464><loc_436>The security of the energy supply should be satisfied without reducing the productivity, as well as the energy saving when considering the energy efficiency problem in manufacturing. In this respect, there are various efforts being made to improve the energy efficiency of the manufacturing system jointly considering the energy operation, and a new attempt is being made. In this article, we primarily discuss these techniques and issues.</text>
+<text><loc_295><loc_436><loc_464><loc_454>The other part of energy consumption for the utility becomes base load. Base load consump- tion adds zero value to products and GHG emis-</text>
+<page_footer><loc_163><loc_461><loc_382><loc_466>Eunsung Oh is with Hanseo University; Sung-Yong Son is with Gachon University.</page_footer>
+<page_footer><loc_328><loc_484><loc_464><loc_489>IEEE Communications Magazine • October 2016</page_footer>
+<page_footer><loc_328><loc_461><loc_464><loc_466>Eunsung Oh is with Hanseo University; Sung-Yong Son is with Gachon University.</page_footer>
+<page_footer><loc_328><loc_484><loc_464><loc_489>IEEE Communications Magazine • October 2016</page_footer>
+<page_footer><loc_328><loc_461><loc_379><loc_466>Eunsung Oh is with Hanseo University; Sung-Yong Son is with Gachon University.</page_footer>
+<page_footer><loc_328><loc_484><loc_464><loc_489>IEEE Communications Magazine • October 2016</page_footer>
+<page_footer><loc_328><loc_461><loc_379><loc_466>Eunsung Oh is with Hanseo University; Sung-Yong Son is with Gachon University.</page_footer>
+</doctag>
+ <doctag><picture><loc_38><loc_21><loc_467><loc_136></picture>
+<text><loc_33><loc_153><loc_201><loc_283>Figure 1. Green manufacturing environment and its evolution from the perspective of electricity. sions. The base load cannot easily be reduced because it is related to the manufacturing infrastructure. The base load of the manufacturing not only uses its own energy sources, such as heat and air generation, but also uses the electricity transmitted from outside energy sources. Specifically, electricity consumption is continuously increased because of its availability and service-ability. The electricity is mainly generated by a non-renewable source, so the generation and consumption of electricity affects the social cost, which is related to not only the manufacturing system, but also other social systems. For example, increasing the peak demand, which is one of the parameters used to measure electricity consumption, results in the use of the expensive and less effective generator, which results in high GHG emissions. For green manufacturing, the effective control of energy sources, as well as its own greening, should be considered.</text>
+<text><loc_33><loc_283><loc_201><loc_343>Green manufacturing covers a wide range of environmental and sustainability issues including resource material selection, transportation, manufacturing process, pollution, and so on. [6] The introduction of Industry 4.0 makes energy efficiency issues for manufacturing more practical, and there have been some efforts to reduce the total energy consumption in the manufacturing process [7]. However, the dynamic nature of energy and load has been not sufficiently considered yet.</text>
+<text><loc_33><loc_344><loc_201><loc_455>In this article, we explore energy management mechanisms for manufacturing systems to understand the energy control not only for production, but also for utility. The main goal of this article is to introduce the potential gain when applying the technologies researched in energy systems into manufacturing systems considering their characteristics. We first address the techniques that can be applied to current green manufacturing and their related issues. Using simple algorithms, we estimate the potential gain by improving the energy efficiency expressed as the energy cost saving, based on a real production activity log and energy data in the analysis. We finally suggest the challenges for a more advanced way, particularly to ensure that energy efficiency does not come at the expense of reduced sustainable productivity.</text>
+<text><loc_33><loc_456><loc_201><loc_468>The article is divided into three additional sections. In the following section, we discuss</text>
+<text><loc_216><loc_153><loc_376><loc_193>related techniques and issues for green manufacturing. Then we present a first-order analysis on the scope of potential energy efficiency enhancement through green energy management. Lastly, we present the future methodology and conclude our findings.</text>
+<section_header_level_1><loc_226><loc_200><loc_349><loc_206>TECHNOLOGIES AND ISSUES OF</section_header_level_1>
+<section_header_level_1><loc_230><loc_211><loc_339><loc_217>GREEN MANUFACTURING</section_header_level_1>
+<text><loc_216><loc_219><loc_376><loc_269>To achieve green manufacturing in terms of electricity, manufacturers should consider demand charge and energy charge, which are the main electricity bill components. The importance of reducing the energy charge is obvious. Meanwhile, it is also meaningful to reduce the demand charge because a high demand charge implicitly means high social energy costs.</text>
+<text><loc_216><loc_270><loc_376><loc_340>In this section, methodologies for green manufacturing are classified, and their issues are discussed. In particular, we discuss issues related to manufacturing systems, address more advanced technical issues, and discuss the required additional equipment. Figure 1 shows a green manufacturing environment that consists of a main production process, supporting utilities, and other advanced energy resources. Each character from A to F presented within a circle is explained in the following corresponding subsections.</text>
+<section_header_level_1><loc_230><loc_346><loc_350><loc_351>UNIT FACILITY EFFICIENCY IMPROVEMENT</section_header_level_1>
+<text><loc_216><loc_353><loc_376><loc_398>This is the most obvious and preferred methodology to achieve energy efficiency. However, energy efficiency is usually not a key decision factor for facility selection or change. Once a facility is installed, it is not easy to replace because of the loss during change, and there can be unknown risks until the entire system is stabilized again.</text>
+<section_header_level_1><loc_230><loc_404><loc_350><loc_409>UTILITY CONTROLS FOR ENARGY SAWINGS</section_header_level_1>
+<text><loc_216><loc_411><loc_376><loc_468>The cost of energy in industry is low compared to the value added via the manufacturing process. Therefore, people give a higher priority to manufacturing planning to meet the required shipment schedule compared to energy efficiency in the field. Utility that supports a manufacturing process is essential, but has limited influence on the production process, and is usually an easy target to improve energy efficiency. Although</text>
+<page_footer><loc_33><loc_486><loc_171><loc_490>IEEE Communications Magazine • October 2016</page_footer>
+<page_footer><loc_456><loc_486><loc_463><loc_490>75</page_footer>
+<text><loc_392><loc_23><loc_463><loc_174>To achieve green manufacturing in terms of electricity, manufacturers should consider demand charge and energy charge, which are the main electricity bill components. The importance of reducing the energy charges is obvious. Meanwhile, it is also meaningful to reduce the demand charge because a high demand charge implicitly means high social energy costs.</text>
+</doctag>
+ <doctag><page_header><loc_38><loc_23><loc_100><loc_146>Such manufacturing environmental changes require an integrated operation that consid- ers the manufacturing  plans, situation of  shop floors, and status  of energy resources,  altogether in real time,  to pursue green man- ufacturing. This means  that a reliable and agile  information network is  essential.</page_header>
+<page_header><loc_125><loc_21><loc_292><loc_40>the approach can contribute to cutting down on  energy consumption without affecting the core  process, the impact is also limited.</page_header>
+<section_header_level_1><loc_131><loc_45><loc_280><loc_50>COMBINE AND HEAT AND GENERATION OPERATION</section_header_level_1>
+<text><loc_131><loc_53><loc_292><loc_100>Combined heat pumps are often introduced because heat is one of the most common energy forms required in the industry, along with electricity [8]. The optimal simultaneous utility. of heating and electricity has been a long-term research issue, and its importance keeps increasing for achieving improved total energy efficiency.</text>
+<section_header_level_1><loc_131><loc_103><loc_280><loc_108>ADOPTING RENEWALES TO REDUCE CO$_{2}$ EMISSION</section_header_level_1>
+<text><loc_131><loc_110><loc_292><loc_237>The greening pressure on industry will keep increasing because of the industry's high energy consumption density compared to residen- tial and commercial energy consumption. Such trends have driven the widespread development and installment of photovoltaic panels on factory roofs and parking lots. These renewable energy technologies contribute to the reduction of energy charges and CO$_{2}$ emissions [9]. However, these resources have variations and difficulties in predicting the output characteristics that may cause region power supply instability. Although photovoltaic may contribute to reducing the demand charge, in most cases, because the generation matches grid peak time, it cannot guard- ante the contribution. This is because one day of cloudy weather can determine high energy charges. Electric energy storage (EES) is one of the potential solutions. However, the high initial capital cost should be overcome.</text>
+<section_header_level_1><loc_151><loc_243><loc_261><loc_248>ACTIVE RESOURCES FOR PEAK CUTTING</section_header_level_1>
+<text><loc_125><loc_251><loc_292><loc_359>Peak cutting is not just for the purposes of energy cost reduction of individual manufacturers, but is also part of the overall development of green technology on a national scale. Many manufacturing industries have intermittently high short-term energy consumption processes that result in high demand charges. EES is considered as the recent improvement of EES technology enables a fast response to compensate for the peak reduction. The high cost of EES prevents adopting EES as an energy shifting or demand response. However, intermittent peak cutting can be implemented relatively small amounts of EES; the economic feasibility can be acquired. The appropriate size of the EES is important in this approach, and there are many studies in this area.</text>
+<section_header_level_1><loc_131><loc_365><loc_245><loc_370>CO-OPTIMIZATION OF</section_header_level_1>
+<section_header_level_1><loc_131><loc_373><loc_292><loc_378>MANUFACTURING PLANNING AND ENERGY MANAGEMENT</section_header_level_1>
+<text><loc_125><loc_380><loc_292><loc_468>Manufacturing execution planning focuses on efficient and reliable production scheduling, which considers resource, facility, and other production-related factors. Although the manufacturing execution plan affects electricity usage patterns, it was not the main concern in the planning process. It is recently considered to combine or co-optimize manufacturing execution planning with an energy management that focuses on energy savings in industry[10, 11]. However, planning complexity and unknown risks prevent the approach from being widely accepted at present. When considering time-varying electricity prices, manufacturing execution planning will</text>
+<page_footer><loc_38><loc_485><loc_46><loc_490>76</page_footer>
+<page_footer><loc_326><loc_485><loc_464><loc_489>IEEE Communications Magazine • October 2016</page_footer>
+<text><loc_299><loc_21><loc_464><loc_34>consider energy consumption considerations more seriously in the long term.</text>
+<text><loc_299><loc_34><loc_464><loc_123>The unit facility efficiency improvement is directly related to the process efficiency, but has limited effect on the impact range. The utility control and the combined heat and generation operation indirectly affect the manufacturing process, and the range of the impact is broad. The adoption of renewables and active resources results in similar characteristics as the supporting utilities; however, it has higher variability and requires management that is more advanced. The co-optimization of manufacturing and energy management is one of the ultimate goals of green manufacturing, integrating all of the above approaches into one organic system.</text>
+<text><loc_299><loc_123><loc_464><loc_244>In the manufacturing environment, combining new energy resources increases the operation complexity. In particular, renewable energy resources are difficult for forecasting and control because of their energies: active resources such as energy storage systems require continuous control. Such manufacturing environmental changes require an integrated operation that considers the manufacturing plans, situation of shop floors, and status of energy resources, all together in real time, to pursue green manufacturing. This means that a reliable and agile information network is essential. Figure 1 shows the information-network-based integrated aspects of the manufacturing execution system (MES) to plan and coordinate the production process, the point of product (POP) system to monitor and control facilities on the production floor, and the energy management system (EMS) and other supporting systems.</text>
+<section_header_level_1><loc_355><loc_249><loc_411><loc_255>A CASE STUDY</section_header_level_1>
+<text><loc_299><loc_258><loc_464><loc_295>Energy in manufacturing is consumed for production and utility. Each method of consumption is related to the demand charges, which depend on the peak electricity load and the energy charge for the total electricity quantity, respectively. The major consideration for reducing these charges in the energy network aspect is EES and renewable resources, and it is also applied to the manufacturing system. In this section, we address a manufacturing process and its electricity load, and we estimate the degree of energy efficiency enhancement when the EES and renewable sources are applied to the system for reducing the peak load and the total amount of load. EES is an emerging and highly appropriated resource that can meet the uncertain changes in renewable generation and manufacturing responsiveness because of its ease of control and rapid responsiveness. Renewable sources reduce the use of conventional electric energy that comes from the grid, generated mostly by fossil fuels, making the manufacturing green. Therefore, this</text>
+<text><loc_299><loc_295><loc_464><loc_369>The ENERGY DEMAND of a Manufacturing SYSTEM In Fig. 2a, the manufacturing process layout, including the production flow used for the case study, is shown. The flow represents a simplified manufacturing process with injection molding, machining, assembly, and painting. The process has four sequences with multiple machines to match the production cycle time between the pro-</text>
+<text><loc_299><loc_370><loc_464><loc_409>resonances. Renewable sources reduce the use of conventional electric energy that comes from the grid, generated mostly by fossil fuels, making the manufacturing green. Therefore, this section focuses on the EES and renewable integration from among the other approaches.</text>
+<section_header_level_1><loc_300><loc_415><loc_454><loc_421>THE ENERGY DEMAND OF A MANUFACTURING SYSTEM</section_header_level_1>
+<text><loc_299><loc_424><loc_464><loc_468>In Fig. 2a, the manufacturing process layout, including the production flow used for the case study, is shown. The flow represents a simplified manufacturing process with injection molding, machining, assembly, and painting. The process has four sequences with multiple machines to match the production cycle time between the pro-</text>
+</doctag>
+ <doctag><picture><loc_35><loc_20><loc_360><loc_138></picture>
+<picture><loc_35><loc_140><loc_360><loc_260></picture>
+<text><loc_35><loc_261><loc_197><loc_384>Figure 2b shows the electricity consumption in active power for the manufacturing process. Time zones 1, 2, and 3 represent normal, trouble, and recovery cases, respectively. In time zone 1, intermittent peaks can be observed because of the injection molding process. To calculate the energy consumption as a function of time, the detailed production flow is simulated using a Monte Carlo simulation. Based on the production flow, the energy consumption of each machine is obtained using the energy consumption pattern corresponding to the associated job for the machine. The total energy consumption values for every instance of time are obtained by aggregating the energy consumption of all facilities in sync. Two simulations are performed based on the operation scenarios with performed trouble to compare the difference. The red and blue lines in Fig. 2b show the energy consumption for the scenario.</text>
+<text><loc_35><loc_385><loc_197><loc_468>The peaks appear periodically in the normal or ideal condition, even though they would be somewhat dispersed in reality. The base load during manufacturing looks relatively high because the base load is the mix of accumulated manufacturing process loads and utility loads. The power consumption can be roughly estimated from the manufacturing execution plan by matching it with the energy consumption of the individual process. In time zone 2, process trouble in the injection molding process is introduced at time 1000 min to observe the effect of a contingency, and it is assumed that the trouble</text>
+<text><loc_199><loc_261><loc_360><loc_278>plan focuses on early recovery of the manufacturing system. The new peak would bring a negative long-term effect to the demand charge.</text>
+<section_header_level_1><loc_199><loc_281><loc_360><loc_293>Peak Cutting UNDER EES OPERATIONS FOR THE PRODUCTION SYSTEM</section_header_level_1>
+<text><loc_199><loc_296><loc_360><loc_455>As shown in time zone 1 of Fig. 2b, the periodic peak loads appear during the normal process, and in zone 3 an abnormal peak load arises following an unexpected event. The peak load reduces the reliability of energy supply, which not only results in reduced energy efficiency, but also worsens the life of the manufacturing equipment. A relevant approach to managing the peak load is the usage of EES. In the application of EES sizing is the essential problem because the EES size limits the degree of freedom for the operation. Various methods based on stochastic approaches have been discussed for EES sizing because of price and load uncertainty in energy systems [12]. In order to solve the problem based on the stochastic approach, probabilistic modeling should be estab-lished. The difference of the load characteristic between the energy system and the manufacturing system makes application of the researched EES techniques for energy systems into the manufacturing systems hard. However, it is known that load in manufacturing is consumed under the process schedule, and it is periodically worked. To control the periodical load, discrete Fourier transform (DFT)-based EES sizing is effective [13].</text>
+<text><loc_199><loc_456><loc_373><loc_468>The basic idea behind DFT-based EES sizing for peak load cutting uses the assumption that</text>
+<page_footer><loc_35><loc_485><loc_172><loc_489>IEEE Communications Magazine • October 2016</page_footer>
+<page_footer><loc_456><loc_485><loc_464><loc_489>77</page_footer>
+<text><loc_388><loc_23><loc_464><loc_163>Each method of consumption is related to the demand charges, which depend on the peak electricity load and the energy charge about the total electricity quantity, respectively. The major consideration for reducing these charges in the energy network aspect is EES and renewable resources, and it is also applied to the manufacturing system.</text>
+</doctag>
+ <doctag><picture><loc_35><loc_21><loc_244><loc_122></picture>
+<picture><loc_35><loc_151><loc_244><loc_261></picture>
+<picture><loc_255><loc_21><loc_460><loc_122></picture>
+<picture><loc_255><loc_151><loc_460><loc_261></picture>
+<picture><loc_35><loc_268><loc_244><loc_300></picture>
+<picture><loc_255><loc_268><loc_460><loc_300></picture>
+<picture><loc_35><loc_307><loc_244><loc_379></picture>
+<picture><loc_324><loc_360><loc_460><loc_469></picture>
+<page_footer><loc_35><loc_484><loc_43><loc_489>78</page_footer>
+<page_footer><loc_326><loc_484><loc_464><loc_489>IEEE Communications Magazine • October 2016</page_footer>
+</doctag>
+ <doctag><picture><loc_242><loc_23><loc_464><loc_83></picture>
+<picture><loc_242><loc_84><loc_464><loc_89></picture>
+<picture><loc_242><loc_117><loc_385><loc_122></picture>
+<picture><loc_242><loc_123><loc_385><loc_128></picture>
+<picture><loc_242><loc_129><loc_385><loc_134></picture>
+<picture><loc_242><loc_135><loc_385><loc_140></picture>
+<picture><loc_242><loc_141><loc_385><loc_146></picture>
+<picture><loc_242><loc_147><loc_385><loc_152></picture>
+<picture><loc_242><loc_153><loc_385><loc_158></picture>
+<picture><loc_242><loc_159><loc_385><loc_163></picture>
+<picture><loc_242><loc_164><loc_385><loc_169></picture>
+<picture><loc_242><loc_170><loc_385><loc_175></picture>
+<picture><loc_242><loc_176><loc_385><loc_180></picture>
+<picture><loc_242><loc_181><loc_385><loc_186></picture>
+<picture><loc_242><loc_187><loc_385><loc_191></picture>
+<picture><loc_242><loc_192><loc_385><loc_197></picture>
+<picture><loc_242><loc_198><loc_385><loc_202></picture>
+<picture><loc_242><loc_203><loc_385><loc_208></picture>
+<picture><loc_242><loc_209><loc_385><loc_213></picture>
+<picture><loc_242><loc_214><loc_385><loc_218></picture>
+<picture><loc_242><loc_219><loc_385><loc_223></picture>
+<picture><loc_242><loc_224><loc_385><loc_228></picture>
+<picture><loc_242><loc_229><loc_385><loc_233></picture>
+<picture><loc_242><loc_234><loc_385><loc_238></picture>
+<picture><loc_242><loc_239><loc_385><loc_243></picture>
+<picture><loc_242><loc_244><loc_385><loc_248></picture>
+<picture><loc_242><loc_249><loc_385><loc_253></picture>
+<picture><loc_242><loc_254><loc_385><loc_258></picture>
+<picture><loc_242><loc_259><loc_385><loc_263></picture>
+<picture><loc_242><loc_264><loc_385><loc_268></picture>
+<picture><loc_242><loc_269><loc_385><loc_273></picture>
+<picture><loc_242><loc_274><loc_385><loc_278></picture>
+<picture><loc_242><loc_279><loc_385><loc_283></picture>
+<picture><loc_242><loc_284><loc_385><loc_288></picture>
+<picture><loc_242><loc_289><loc_385><loc_293></picture>
+<picture><loc_242><loc_294><loc_385><loc_298></picture>
+<picture><loc_242><loc_299><loc_385><loc_303></picture>
+<picture><loc_242><loc_304><loc_385><loc_308></picture>
+<picture><loc_242><loc_309><loc_385><loc_313></picture>
+<picture><loc_242><loc_314><loc_385><loc_318></picture>
+<picture><loc_242><loc_319><loc_385><loc_323></picture>
+<picture><loc_242><loc_324><loc_385><loc_328></picture>
+<picture><loc_242><loc_329><loc_385><loc_333></picture>
+<picture><loc_242><loc_334><loc_385><loc_338></picture>
+<picture><loc_242><loc_339><loc_385><loc_343></picture>
+<picture><loc_242><loc_344><loc_385><loc_348></picture>
+<picture><loc_242><loc_349><loc_385><loc_353></picture>
+<picture><loc_242><loc_354><loc_385><loc_358></picture>
+<picture><loc_242><loc_359><loc_385><loc_363></picture>
+<picture><loc_242><loc_364><loc_385><loc_368></picture>
+<picture><loc_242><loc_369><loc_385><loc_373></picture>
+<picture><loc_242><loc_374><loc_385><loc_378></picture>
+<picture><loc_242><loc_379><loc_385><loc_383></picture>
+<picture><loc_242><loc_384><loc_385><loc_388></picture>
+<picture><loc_242><loc_389><loc_385><loc_393></picture>
+<picture><loc_242><loc_394><loc_385><loc_398></picture>
+<picture><loc_242><loc_399><loc_385><loc_403></picture>
+<picture><loc_242><loc_404><loc_385><loc_408></picture>
+<picture><loc_242><loc_409><loc_385><loc_413></picture>
+<picture><loc_242><loc_414><loc_385><loc_418></picture>
+<picture><loc_242><loc_419><loc_385><loc_423></picture>
+<picture><loc_242><loc_424><loc_385><loc_428></picture>
+<picture><loc_242><loc_429><loc_385><loc_433></picture>
+<picture><loc_242><loc_434><loc_385><loc_438></picture>
+<picture><loc_242><loc_439><loc_385><loc_442></picture>
+<picture><loc_242><loc_443><loc_385><loc_447></picture>
+<picture><loc_242><loc_449><loc_385><loc_452></picture>
+<picture><loc_242><loc_453><loc_385><loc_457></picture>
+<picture><loc_242><loc_458><loc_385><loc_462></picture>
+<picture><loc_242><loc_463><loc_385><loc_467></picture>
+<picture><loc_242><loc_468><loc_385><loc_472></picture>
+<picture><loc_242><loc_473><loc_385><loc_477></picture>
+<picture><loc_242><loc_478><loc_385><loc_482></picture>
+<picture><loc_242><loc_483><loc_385><loc_487></picture>
+<picture><loc_242><loc_488><loc_385><loc_492></picture>
+<picture><loc_242><loc_493><loc_385><loc_497></picture>
+<picture><loc_242><loc_498><loc_385><loc_502></picture>
+<picture><loc_242><loc_503><loc_385><loc_508></picture>
+<picture><loc_242><loc_509><loc_385><loc_513></picture>
+<picture><loc_242><loc_514><loc_385><loc_518></picture>
+<picture><loc_242><loc_519><loc_385><loc_523></picture>
+<picture><loc_242><loc_524><loc_385><loc_528></picture>
+<picture><loc_242><loc_529><loc_385><loc_533></picture>
+<picture><loc_242><loc_534><loc_385><loc_538></picture>
+<picture><loc_242><loc_539><loc_385><loc_543></picture>
+<picture><loc_242><loc_544><loc_385><loc_548></picture>
+<picture><loc_242><loc_549><loc_385><loc_553></picture>
+<picture><loc_242><loc_554><loc_385><loc_558></picture>
+<picture><loc_242><loc_559><loc_385><loc_563></picture>
+<picture><loc_242><loc_564><loc_385><loc_568></picture>
+<picture><loc_242><loc_569><loc_385><loc_573></picture>
+<picture><loc_242><loc_574><loc_385><loc_578></picture>
+<picture><loc_242><loc_579><loc_385><loc_583></picture>
+<picture><loc_242><loc_584><loc_385><loc_588></picture>
+<picture><loc_242><loc_589><loc_385><loc_593></picture>
+<picture><loc_242><loc_594><loc_385><loc_600></picture>
+<picture><loc_242><loc_601><loc_385><loc_605></picture>
+<picture><loc_242><loc_606><loc_385><loc_610></picture>
+<picture><loc_242><loc_611><loc_385><loc_615></picture>
+<picture><loc_242><loc_616><loc_385><loc_620></picture>
+<picture><loc_242><loc_621><loc_385><loc_625></picture>
+<picture><loc_242><loc_626><loc_385><loc_630></picture>
+<picture><loc_242><loc_631><loc_385><loc_635></picture>
+<picture><loc_242><loc_636><loc_385><loc_640></picture>
+<picture><loc_242><loc_641><loc_385><loc_645></picture>
+<picture><loc_242><loc_646><loc_385><loc_650></picture>
+<picture><loc_242><loc_651><loc_385><loc_655></picture>
+<picture><loc_242><loc_656><loc_385><loc_660></picture>
+<picture><loc_242><loc_661><loc_385><loc_665></picture>
+<picture><loc_242><loc_666><loc_385><loc_670></picture>
+<picture><loc_242><loc_671><loc_385><loc_675></picture>
+<picture><loc_242><loc_676><loc_385><loc_680></picture>
+<picture><loc_242><loc_681><loc_385><loc_685></picture>
+<picture><loc_242><loc_686><loc_385><loc_690></picture>
+<picture><loc_242><loc_691><loc_385><loc_695></picture>
+<picture><loc_242><loc_696><loc_385><loc_700></picture>
+<picture><loc_242><loc_701><loc_385><loc_713></picture>
+<picture><loc_242><loc_714><loc_385><loc_730></picture>
+<picture><loc_242><loc_731><loc_385><loc_743></picture>
+<picture><loc_242><loc_744><loc_385><loc_755></picture>
+<picture><loc_242><loc_756><loc_385><loc_760></picture>
+<picture><loc_242><loc_761><loc_385><loc_773></picture>
+<picture><loc_242><loc_774><loc_385><loc_785></picture>
+<picture><loc_242><loc_786><loc_385><loc_790></picture>
+<picture><loc_242><loc_791><loc_385><loc_803></picture>
+<picture><loc_242><loc_804><loc_385><loc_821></picture>
+<picture><loc_242><loc_822><loc_385><loc_841></picture>
+<picture><loc_242><loc_842><loc_385><loc_860></picture>
+<picture><loc_242><loc_861><loc_385><loc_873></picture>
+<picture><loc_242><loc_874><loc_385><loc_885></picture>
+<picture><loc_242><loc_886><loc_385><loc_904></picture>
+<picture><loc_242><loc_905><loc_385><loc_923></picture>
+<picture><loc_242><loc_924><loc_385><loc_942></picture>
+<picture><loc_242><loc_943><loc_385><loc_961></picture>
+<picture><loc_242><loc_962><loc_385><loc_974></picture>
+<picture><loc_242><loc_975><loc_385><loc_993></picture>
+<picture><loc_242><loc_994><loc_385><loc_1011></picture>
+<picture><loc_242><loc_1012><loc_385><loc_1030></picture>
+<picture><loc_242><loc_1031><loc_385><loc_1050></picture>
+<picture><loc_242><loc_1051><loc_385><loc_1070></picture>
+<picture><loc_242><loc_1071><loc_385><loc_1100></picture>
+<picture><loc_242><loc_1101><loc_385><loc_1120></picture>
+<picture><loc_242><loc_1121><loc_385><loc_1140></picture>
+<picture><loc_242><loc_1141><loc_385><loc_1160></picture>
+<picture><loc_242><loc_1161><loc_385><loc_1180></picture>
+<picture><loc_242><loc_1181><loc_385><loc_1200></picture>
+<picture><loc_242><loc_1201><loc_385><loc_1220></picture>
+<picture><loc_242><loc_1221><loc_385><loc_1240></picture>
+<picture><loc_242><loc_1241><loc_385><loc_1260></picture>
+<picture><loc_242><loc_1261><loc_385><loc_1280></picture>
+<picture><loc_242><loc_1281><loc_385><loc_1300></picture>
+<picture><loc_242><loc_1301><loc_385><loc_1320></picture>
+<picture><loc_242><loc_1321><loc_385><loc_1340></picture>
+<picture><loc_242><loc_1341><loc_385><loc_1360></picture>
+<picture><loc_242><loc_1361><loc_385><loc_1380></picture>
+<picture><loc_242><loc_1381><loc_385><loc_1400></picture>
+<picture><loc_242><loc_1401><loc_385><loc_1420></picture>
+<picture><loc_242><loc_1421><loc_385><loc_1440></picture>
+<picture><loc_242><loc_1441><loc_385><loc_1460></picture>
+<picture><loc_242><loc_1461><loc_385><loc_1480></picture>
+<picture><loc_242><loc_1481><loc_385><loc_1500></picture>
+<picture><loc_242><loc_1501><loc_385><loc_1520></picture>
+<picture><loc_242><loc_1521><loc_385><loc_1540></picture>
+<picture><loc_242><loc_1541><loc_385><loc_1560></picture>
+<picture><loc_242><loc_1561><loc_385><loc_1580></picture>
+<picture><loc_242><loc_1581><loc_385><loc_1600></picture>
+<picture><loc_242><loc_1601><loc_385><loc_1620></picture>
+<picture><loc_242><loc_1621><loc_385><loc_1640></picture>
+<picture><loc_242><loc_1641><loc_385><loc_1660></picture>
+<picture><loc_242><loc_1661><loc_385><loc_1680></picture>
+<picture><loc_242><loc_1681><loc_385><loc_1700></picture>
+<picture><loc_242><loc_1701><loc_385><loc_1720></picture>
+<picture><loc_242><loc_1721><loc_385><loc_1740></picture>
+<picture><loc_242><loc_1741><loc_385><loc_1760></picture>
+<picture><loc_242><loc_1761><loc_385><loc_1780></picture>
+<picture><loc_242><loc_1781><loc_385><loc_1800></picture>
+<picture><loc_242><loc_1801><loc_385><loc_1820></picture>
+<picture><loc_242><loc_1821><loc_385><loc_1840></picture>
+<picture><loc_242><loc_1841><loc_385><loc_1860></picture>
+<picture><loc_242><loc_1861><loc_385><loc_1880></picture>
+<picture><loc_242><loc_1881><loc_385><loc_1900></picture>
+<picture><loc_242><loc_1901><loc_385><loc_1920></picture>
+<picture><loc_242><loc_1921><loc_385><loc_1940></picture>
+<picture><loc_242><loc_1941><loc_385><loc_1960></picture>
+<picture><loc_242><loc_1961><loc_385><loc_1980></picture>
+<picture><loc_242><loc_1982><loc_385><loc_2000></picture>
+<picture><loc_242><loc_2001><loc_385><loc_2020></picture>
+<picture><loc_242><loc_2021><loc_385><loc_2040></picture>
+<picture><loc_242><loc_2041><loc_385><loc_2060></picture>
+<picture><loc_242><loc_2061><loc_385><loc_2080></picture>
+<picture><loc_242><loc_2082><loc_385><loc_2100></picture>
+<picture><loc_242><loc_2101><loc_385><loc_2120></picture>
+<picture><loc_242><loc_2121><loc_385><loc_2140></picture>
+<picture><loc_242><loc_2141><loc_385><loc_2160></picture>
+<picture><loc_242><loc_2161><loc_385><loc_2180></picture>
+<picture><loc_242><loc_2182><loc_385><loc_2200></picture>
+<picture><loc_242><loc_2201><loc_385><loc_2220></picture>
+<picture><loc_242><loc_2221><loc_385><loc_2240></picture>
+<picture><loc_242><loc_2241><loc_385><loc_2260></picture>
+<picture><loc_242><loc_2261><loc_385><loc_2280></picture>
+<picture><loc_242><loc_2282><loc_385><loc_2300></picture>
+<picture><loc_242><loc_2301><loc_385><loc_2320></picture>
+<picture><loc_242><loc_2321><loc_385><loc_2340></picture>
+<picture><loc_242><loc_2341><loc_385><loc_2360></picture>
+<picture><loc_242><loc_2361><loc_385><loc_2380></picture>
+<picture><loc_242><loc_2382><loc_385><loc_2401></picture>
+<picture><loc_242><loc_2402><loc_385><loc_2422></picture>
+<picture><loc_242><loc_2423><loc_385><loc_2442></picture>
+<picture><loc_242><loc_2443><loc_385><loc_2462></picture>
+<picture><loc_242><loc_2463><loc_385><loc_2482></picture>
+<picture><loc_242><loc_2483><loc_385><loc_2503></picture>
+<picture><loc_242><loc_2504><loc_385><loc_2524></picture>
+<picture><loc_242><loc_2524><loc_385><loc_2544></picture>
+<picture><loc_242><loc_2544><loc_385><loc_2564></picture>
+<picture><loc_242><loc_2564><loc_385><loc_2584></picture>
+<picture><loc_242><loc_2585><loc_385><loc_2605></picture>
+<picture><loc_242><loc_2605><loc_385><loc_2625></picture>
+<picture><loc_242><loc_2625><loc_385><loc_2645></picture>
+<picture><loc_242><loc_2645><loc_385><loc_2665></picture>
+<picture><loc_242><loc_2665><loc_385><loc_2685></picture>
+<picture><loc_242><loc_2685><loc_385><loc_2705></picture>
+<picture><loc_242><loc_2705><loc_385><loc_2725></picture>
+<picture><loc_242><loc_2725><loc_385><loc_2745></picture>
+<picture><loc_242><loc_2745><loc_385><loc_2765></picture>
+<picture><loc_242><loc_2765><loc_385><loc_2785></picture>
+<picture><loc_242><loc_2785><loc_385><loc_2805></picture>
+<picture><loc_242><loc_2805><loc_385><loc_2825></picture>
+<picture><loc_242><loc_2825><loc_385><loc_2845></picture>
+<picture><loc_242><loc_2845><loc_385><loc_2865></picture>
+<picture><loc_242><loc_2865><loc_385><loc_2885></picture>
+<picture><loc_242><loc_2885><loc_385><loc_2905></picture>
+<picture><loc_242><loc_2905><loc_385><loc_2925></picture>
+<picture><loc_242><loc_2925><loc_385><loc_2945></picture>
+<picture><loc_242><loc_2945><loc_385><loc_2965></picture>
+<picture><loc_242><loc_2965><loc_385><loc_2985></picture>
+<picture><loc_242><loc_2985><loc_385><loc_3005></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2924><loc_385><loc_2945></picture>
+<picture><loc_242><loc_2945><loc_385><loc_2965></picture>
+<picture><loc_242><loc_2965><loc_385><loc_2985></picture>
+<picture><loc_242><loc_2985><loc_385><loc_3005></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2924><loc_385><loc_2945></picture>
+<picture><loc_242><loc_2955><loc_385><loc_2975></picture>
+<picture><loc_242><loc_2975><loc_385><loc_3005></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385><loc_3015></picture>
+<picture><loc_242><loc_2995><loc_385
